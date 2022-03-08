@@ -1,0 +1,1356 @@
+brand,color,condition,body_type,wheel_config,transmission,mileage,carfax_link,dealer_address,cylinders,vehicle_age,list_price
+american,Black,Used,Pickup Truck,4 x 4,Automatic,115000,Available,Toronto,8,3,30999.99
+german,Grey,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,129000,None,Toronto,4,7,11450.0
+american,other,Used,Other,All-wheel drive (AWD),Automatic,73893,Available,Toronto,6,3,33988.0
+japanese,other,Used,Sedan,Unknown,Automatic,200500,None,Toronto,6,18,500.0
+japanese,White,Used,Sedan,Front-wheel drive (FWD),Automatic,93000,Available,Toronto,4,5,15499.0
+american,Silver,Used,"SUV, Crossover",Unknown,Automatic,147000,None,other_GTA,6,14,1100.0
+american,Black,Used,Sedan,All-wheel drive (AWD),Automatic,176000,None,Toronto,6,9,3400.0
+american,Blue,Used,Sedan,Front-wheel drive (FWD),Automatic,41432,Available,other_GTA,4,3,19999.0
+japanese,White,Used,Sedan,Front-wheel drive (FWD),Automatic,21196,Available,Toronto,4,3,11971.0
+japanese,other,Used,Sedan,Unknown,Automatic,226,None,Toronto,4,14,2600.0
+american,White,Used,"SUV, Crossover",Unknown,Automatic,74899,Available,Toronto,4,5,15988.0
+american,other,Used,Sedan,Front-wheel drive (FWD),Automatic,200000,Available,other,8,19,1000.0
+american,Silver,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,11618,Available,Toronto,4,2,43578.0
+japanese,other,Used,Sedan,Front-wheel drive (FWD),Automatic,156988,Available,Toronto,4,8,11500.0
+german,Red,Used,Sedan,All-wheel drive (AWD),Automatic,103558,Available,Toronto,4,6,21500.0
+american,Blue,Used,Sedan,All-wheel drive (AWD),Electric,27981,Available,other_GTA,0,5,93995.0
+japanese,Grey,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,131000,Available,Toronto,4,6,15950.0
+japanese,White,Used,Coupe (2 door),Front-wheel drive (FWD),Automatic,30345,Available,other,4,4,21877.0
+japanese,Grey,Used,Sedan,Front-wheel drive (FWD),Automatic,123000,Available,Toronto,4,6,16950.0
+japanese,Red,Used,Sedan,Unknown,Automatic,513,Available,other,4,14,1190.0
+german,White,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,69000,None,Toronto,6,7,53988.0
+german,Black,Used,Sedan,All-wheel drive (AWD),Automatic,114208,Available,Toronto,6,8,21800.0
+german,White,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,147168,Available,Toronto,6,8,20500.0
+japanese,Blue,Used,Sedan,Unknown,Automatic,140373,Available,other,4,12,4995.0
+german,White,Used,Sedan,Front-wheel drive (FWD),Manual,67069,Available,Toronto,4,5,9500.0
+german,Black,Used,Sedan,All-wheel drive (AWD),Automatic,78690,Available,Toronto,6,6,32800.0
+korean,Red,Used,Sedan,Front-wheel drive (FWD),Automatic,103000,Available,Toronto,4,3,14850.0
+german,Black,Used,Sedan,All-wheel drive (AWD),Automatic,150000,None,Toronto,8,12,19000.0
+german,White,Used,Sedan,Front-wheel drive (FWD),Automatic,126000,Available,Toronto,4,5,15950.0
+japanese,Black,Used,Sedan,Front-wheel drive (FWD),Automatic,106501,Available,other_GTA,4,5,17500.0
+japanese,White,Used,Sedan,Front-wheel drive (FWD),Automatic,85000,Available,Toronto,4,5,13980.0
+japanese,Black,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,140000,Available,Toronto,6,8,20950.0
+japanese,Black,Used,Sedan,Front-wheel drive (FWD),Manual,67800,Available,Toronto,4,6,10400.0
+german,Grey,Used,Sedan,All-wheel drive (AWD),Automatic,74000,Available,Toronto,4,5,23799.0
+american,Black,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,74496,Available,other_GTA,6,5,23495.0
+german,White,Used,Sedan,Front-wheel drive (FWD),Automatic,57080,Available,Toronto,6,6,23800.0
+german,White,Used,Sedan,All-wheel drive (AWD),Automatic,26188,Available,Toronto,6,4,36388.0
+german,Black,Used,Sedan,All-wheel drive (AWD),Automatic,66000,Available,Toronto,4,6,24950.0
+japanese,Black,Used,Sedan,Front-wheel drive (FWD),Automatic,96000,Available,Toronto,4,5,16450.0
+german,White,Used,Sedan,All-wheel drive (AWD),Automatic,40250,Available,other,4,3,34950.0
+american,Black,Used,Sedan,All-wheel drive (AWD),Automatic,52745,Available,other,6,3,24677.0
+japanese,Blue,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,37245,Available,Toronto,6,3,46995.0
+japanese,Grey,Used,Sedan,Front-wheel drive (FWD),Automatic,58000,Available,Toronto,4,3,14999.0
+american,White,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,124506,Available,other,4,7,13495.0
+german,Blue,Used,"SUV, Crossover",Front-wheel drive (FWD),Automatic,51628,Available,Toronto,4,5,14990.0
+german,Grey,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,129000,Available,Toronto,6,9,17988.0
+german,Red,Used,Coupe (2 door),Rear-wheel drive (RWD),Automatic,86758,Available,other_GTA,4,6,22999.0
+american,Grey,Used,"SUV, Crossover",Unknown,Automatic,116000,None,Toronto,6,6,17950.0
+german,other,Used,Sedan,All-wheel drive (AWD),Automatic,30623,Available,other,4,7,19285.0
+german,Black,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,144411,Available,Toronto,4,6,29800.0
+german,Grey,Used,Convertible,Rear-wheel drive (RWD),Automatic,121000,Available,Toronto,6,13,9995.0
+italian,Black,Used,Coupe (2 door),Rear-wheel drive (RWD),Manual,88718,Available,Toronto,4,10,46800.0
+japanese,Black,Used,Pickup Truck,4 x 4,Automatic,15700,Available,other,6,2,31990.0
+german,Black,Used,Sedan,Front-wheel drive (FWD),Automatic,107025,Available,Toronto,4,4,13250.0
+japanese,White,Used,Sedan,Front-wheel drive (FWD),Automatic,24730,Available,Toronto,4,3,21588.0
+german,White,Used,Sedan,Front-wheel drive (FWD),Manual,59996,Available,Toronto,4,5,12500.0
+american,Black,Used,"SUV, Crossover",4 x 4,Automatic,12861,Available,Toronto,6,2,50907.0
+korean,Blue,Used,Coupe (2 door),Front-wheel drive (FWD),Automatic,197700,Available,Toronto,4,9,3250.0
+japanese,Black,Used,"SUV, Crossover",Front-wheel drive (FWD),Automatic,157365,Available,other_GTA,4,7,12850.0
+american,other,Used,Pickup Truck,Unknown,Automatic,88,None,Toronto,6,2,1000.0
+german,White,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,75000,Available,Toronto,6,7,39800.0
+korean,Black,New,"SUV, Crossover",All-wheel drive (AWD),Automatic,50,New_Car,other_GTA,4,1,36535.0
+german,Black,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,199461,Available,Toronto,8,11,11995.0
+american,Blue,Used,Coupe (2 door),Front-wheel drive (FWD),Automatic,204710,Available,Toronto,4,12,2699.95
+american,Silver,Used,"Minivan, Van",Rear-wheel drive (RWD),Automatic,168000,Available,Toronto,8,11,18995.0
+japanese,White,Used,Sedan,Front-wheel drive (FWD),Automatic,42276,Available,other_GTA,4,3,18999.0
+american,Silver,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,132294,None,Toronto,6,8,11988.0
+american,White,Used,Sedan,All-wheel drive (AWD),Electric,27743,Available,other_GTA,0,4,103995.0
+japanese,Silver,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,78589,Available,Toronto,4,4,25995.0
+japanese,Grey,Used,Sedan,Front-wheel drive (FWD),Automatic,82000,Available,Toronto,4,5,11950.0
+japanese,Black,Used,Sedan,Front-wheel drive (FWD),Automatic,94490,Available,other_GTA,4,5,16999.0
+japanese,Black,Used,"SUV, Crossover",Front-wheel drive (FWD),Automatic,169000,Available,Toronto,4,9,6999.0
+japanese,other,New,"Minivan, Van",Front-wheel drive (FWD),Automatic,50,New_Car,other,4,1,31354.0
+german,White,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,79273,Available,Toronto,4,5,18990.0
+american,other,Used,Sedan,Front-wheel drive (FWD),Automatic,33716,Available,Toronto,4,2,16988.0
+japanese,Black,Used,Hatchback,Unknown,Automatic,90713,Available,Toronto,4,7,11350.0
+american,Grey,Used,Sedan,Front-wheel drive (FWD),Automatic,109000,Available,Toronto,4,4,12950.0
+japanese,White,Used,Sedan,Front-wheel drive (FWD),Automatic,99652,None,Toronto,4,6,13995.0
+japanese,Silver,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,121000,Available,Toronto,4,6,16450.0
+german,Red,Used,Sedan,Front-wheel drive (FWD),Automatic,68518,Available,Toronto,4,5,13750.0
+japanese,Silver,Used,Pickup Truck,Unknown,Automatic,72560,Available,other,6,4,33595.0
+italian,Silver,Used,Sedan,Rear-wheel drive (RWD),Automatic,94789,Available,Toronto,4,11,29800.0
+japanese,White,New,"SUV, Crossover",Front-wheel drive (FWD),Automatic,50,New_Car,other,4,1,33411.0
+german,White,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,116000,None,Toronto,6,6,23950.0
+german,Silver,Used,Sedan,All-wheel drive (AWD),Automatic,126616,Available,Toronto,6,5,29800.0
+german,Blue,Used,Sedan,Rear-wheel drive (RWD),Automatic,94450,None,other_GTA,8,7,40000.0
+american,Red,New,"Minivan, Van",Front-wheel drive (FWD),Automatic,50,New_Car,other,6,1,34735.0
+american,Blue,Used,Coupe (2 door),Rear-wheel drive (RWD),Manual,60000,Available,Toronto,8,3,21999.0
+german,Silver,Used,Sedan,All-wheel drive (AWD),Automatic,200192,Available,Toronto,4,12,12888.0
+british,Grey,Used,Sedan,Rear-wheel drive (RWD),Automatic,160000,Available,other_GTA,8,11,10500.0
+japanese,Black,Used,Sedan,Front-wheel drive (FWD),Automatic,79000,Available,Toronto,4,5,14980.0
+japanese,Black,Used,Sedan,Front-wheel drive (FWD),Automatic,95848,Available,Toronto,4,5,17000.0
+german,White,Used,Sedan,All-wheel drive (AWD),Automatic,77290,None,Toronto,4,5,22990.0
+japanese,Grey,Used,Sedan,Front-wheel drive (FWD),Manual,265000,Available,Toronto,4,16,899.99
+japanese,other,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,230000,None,Toronto,6,13,6800.0
+japanese,Red,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,51725,Available,other,4,4,17999.0
+german,Red,Used,Sedan,Front-wheel drive (FWD),Automatic,61000,Available,Toronto,4,7,11999.0
+japanese,Black,Used,Sedan,Front-wheel drive (FWD),Automatic,100000,Available,Toronto,4,4,24950.0
+american,Silver,Used,Sedan,Front-wheel drive (FWD),Automatic,79000,Available,Toronto,4,6,10450.0
+american,White,Used,"Minivan, Van",Front-wheel drive (FWD),Automatic,28429,Available,other_GTA,8,3,24495.0
+german,White,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,103654,Available,Toronto,6,9,29800.0
+japanese,White,Used,Sedan,All-wheel drive (AWD),Manual,15000,None,Toronto,4,2,39000.0
+german,White,Used,Sedan,Front-wheel drive (FWD),Automatic,82120,None,Toronto,4,5,12900.0
+german,Black,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,94000,Available,Toronto,6,5,33899.0
+japanese,Blue,Used,Sedan,Front-wheel drive (FWD),Automatic,126000,Available,Toronto,4,10,4900.0
+american,White,Used,"SUV, Crossover",4 x 4,Automatic,200000,None,Toronto,4,10,3000.0
+german,other,Used,Sedan,Front-wheel drive (FWD),Automatic,73938,Available,Toronto,4,5,16990.0
+german,Blue,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,42327,Available,Toronto,6,5,30999.0
+german,White,Used,Sedan,Front-wheel drive (FWD),Automatic,39818,Available,Toronto,4,5,17990.0
+american,Blue,Used,"Minivan, Van",Front-wheel drive (FWD),Automatic,197000,Available,Toronto,6,14,2999.0
+korean,other,New,"SUV, Crossover",All-wheel drive (AWD),Automatic,50,New_Car,other,4,2,50828.0
+american,White,Used,"Minivan, Van",Front-wheel drive (FWD),Automatic,160486,None,other,6,7,12990.0
+japanese,Blue,Used,Sedan,Unknown,Automatic,12847,Available,other,4,2,20921.0
+german,Black,Used,Wagon,All-wheel drive (AWD),Automatic,97381,Available,Toronto,6,6,28480.0
+japanese,Black,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,106000,Available,Toronto,6,3,29950.0
+german,Grey,Used,"SUV, Crossover",Unknown,Automatic,62000,Available,Toronto,6,5,35999.0
+german,Red,Used,Sedan,Front-wheel drive (FWD),Automatic,98488,Available,Toronto,4,5,12750.0
+american,other,Used,Sedan,Front-wheel drive (FWD),Automatic,102394,Available,Toronto,4,8,10988.0
+japanese,White,Used,Sedan,Front-wheel drive (FWD),Automatic,80487,Available,Toronto,4,7,6495.0
+japanese,White,Used,Sedan,Front-wheel drive (FWD),Automatic,75203,Available,Toronto,4,5,13999.0
+korean,Grey,Used,Sedan,All-wheel drive (AWD),Automatic,67172,Available,Toronto,6,5,26500.0
+american,Grey,Used,"Minivan, Van",Front-wheel drive (FWD),Automatic,55110,Available,other_GTA,6,4,27995.0
+american,White,Used,Pickup Truck,Unknown,Automatic,85000,None,other,8,10,16990.0
+japanese,White,Used,Pickup Truck,4 x 4,Automatic,15300,Available,other,6,2,40990.0
+italian,Black,Used,Sedan,Rear-wheel drive (RWD),Automatic,92478,Available,Toronto,4,10,37800.0
+japanese,Black,Used,Sedan,Front-wheel drive (FWD),Automatic,62544,Available,other_GTA,4,5,17999.0
+japanese,Black,Used,"SUV, Crossover",Front-wheel drive (FWD),Automatic,137791,Available,Toronto,4,10,6999.0
+american,Red,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,71545,Available,other,6,4,29748.0
+american,Black,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,180487,Available,Toronto,4,10,9720.0
+american,White,Used,"Minivan, Van",Front-wheel drive (FWD),Automatic,95000,Available,Toronto,8,5,16600.0
+american,Black,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,56000,Available,other_GTA,4,5,17000.0
+korean,Black,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,173000,Available,Toronto,4,8,9900.0
+japanese,White,Used,"Minivan, Van",Front-wheel drive (FWD),Automatic,54705,Available,other,6,4,29900.0
+american,Black,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,138000,Available,Toronto,8,12,17900.0
+japanese,Grey,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,106000,None,Toronto,4,5,17450.0
+japanese,Black,Used,Sedan,Front-wheel drive (FWD),Automatic,85000,None,Toronto,4,7,14450.0
+japanese,Grey,Used,Sedan,Front-wheel drive (FWD),Automatic,115000,Available,Toronto,4,4,15850.0
+american,White,Used,"SUV, Crossover",4 x 4,Manual,82365,Available,Toronto,6,5,22881.0
+german,Black,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,86000,Available,Toronto,8,7,32800.0
+american,Black,Used,Sedan,Front-wheel drive (FWD),Automatic,70000,Available,Toronto,4,6,10477.0
+german,Grey,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,99000,Available,Toronto,6,13,11500.0
+german,Red,Used,Sedan,All-wheel drive (AWD),Automatic,122094,Available,Toronto,8,6,36800.0
+american,White,Used,"Minivan, Van",Rear-wheel drive (RWD),Automatic,19495,None,Toronto,8,3,26600.0
+korean,Black,Used,Sedan,Rear-wheel drive (RWD),Automatic,104000,None,Toronto,8,9,16000.0
+american,Black,Used,Sedan,Front-wheel drive (FWD),Automatic,54000,Available,Toronto,4,3,19999.0
+korean,other,New,"SUV, Crossover",All-wheel drive (AWD),Automatic,50,New_Car,other_GTA,4,1,41485.0
+american,Grey,Used,"SUV, Crossover",4 x 4,Automatic,71759,Available,Toronto,6,5,25124.0
+american,White,Used,Pickup Truck,Rear-wheel drive (RWD),Automatic,108000,Available,Toronto,5,8,11900.0
+japanese,Silver,Used,Sedan,Front-wheel drive (FWD),Automatic,33197,None,Toronto,4,9,13995.0
+korean,White,Used,Sedan,Front-wheel drive (FWD),Automatic,79520,Available,Toronto,4,5,9979.0
+american,Black,Used,Hatchback,Front-wheel drive (FWD),Automatic,89000,Available,Toronto,4,6,9850.0
+american,White,Used,"SUV, Crossover",4 x 4,Automatic,48477,Available,Toronto,6,5,33633.0
+american,Black,Used,Sedan,Rear-wheel drive (RWD),Manual,43822,Available,Toronto,8,5,30465.0
+japanese,Silver,Used,Sedan,Front-wheel drive (FWD),Automatic,190000,None,Toronto,6,14,5200.0
+japanese,Grey,Used,Sedan,Front-wheel drive (FWD),Automatic,145500,Available,other_GTA,6,5,23999.0
+korean,Red,Used,Sedan,Front-wheel drive (FWD),Automatic,37943,Available,other_GTA,4,4,16995.0
+german,Black,Used,Sedan,Rear-wheel drive (RWD),Automatic,90150,Available,Toronto,6,7,41800.0
+american,Red,Used,"SUV, Crossover",4 x 4,Automatic,24205,Available,Toronto,6,2,34603.0
+american,Blue,Used,"SUV, Crossover",4 x 4,Automatic,29400,Available,Toronto,6,2,34603.0
+japanese,White,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,56617,Available,other,6,5,21999.0
+american,Grey,Used,"SUV, Crossover",4 x 4,Automatic,16680,Available,Toronto,6,2,48588.0
+japanese,Grey,Used,Sedan,Front-wheel drive (FWD),Automatic,113000,Available,Toronto,4,6,17850.0
+german,Black,Lease Takeover,Sedan,Front-wheel drive (FWD),Automatic,63000,None,other,4,3,287.0
+korean,other,Used,Sedan,Front-wheel drive (FWD),Automatic,53019,Available,Toronto,4,6,9500.0
+german,other,Used,Other,All-wheel drive (AWD),Automatic,88964,Available,Toronto,6,7,19988.0
+japanese,other,New,"SUV, Crossover",Front-wheel drive (FWD),Automatic,50,New_Car,other,4,1,33411.0
+japanese,other,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,203000,None,Toronto,4,11,4980.0
+german,White,Used,Sedan,All-wheel drive (AWD),Automatic,96837,Available,other_GTA,8,6,39888.0
+korean,other,New,"SUV, Crossover",All-wheel drive (AWD),Automatic,50,New_Car,other_GTA,4,1,36536.0
+german,Red,Used,Sedan,Front-wheel drive (FWD),Automatic,59997,Available,Toronto,4,4,14500.0
+american,Black,Used,Pickup Truck,Unknown,Automatic,192139,None,Toronto,8,6,12888.0
+german,Grey,Used,Sedan,All-wheel drive (AWD),Automatic,105928,Available,Toronto,4,6,17990.0
+american,Black,Used,"SUV, Crossover",4 x 4,Automatic,50148,Available,Toronto,6,4,35957.0
+american,Grey,Used,Sedan,Front-wheel drive (FWD),Automatic,91000,Available,Toronto,4,6,10450.0
+british,Grey,Used,"SUV, Crossover",4 x 4,Automatic,66000,Available,other_GTA,8,4,59700.0
+american,Black,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,111000,Available,Toronto,6,4,19950.0
+american,Red,Used,Sedan,Front-wheel drive (FWD),Automatic,94000,Available,Toronto,4,6,7999.0
+american,White,Used,"Minivan, Van",Front-wheel drive (FWD),Automatic,27357,Available,other_GTA,6,2,35995.0
+german,Black,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,87606,Available,Toronto,6,6,42800.0
+american,White,Used,Sedan,Front-wheel drive (FWD),Automatic,140000,Available,Toronto,6,7,13250.0
+japanese,Black,Used,"SUV, Crossover",4 x 4,Automatic,190000,Available,Toronto,6,11,8999.0
+german,Grey,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,144000,Available,Toronto,8,5,41988.0
+korean,Red,Used,Hatchback,Unknown,Automatic,167000,Available,Toronto,4,7,7995.0
+german,White,Used,Sedan,All-wheel drive (AWD),Automatic,27000,Available,Toronto,6,5,42880.0
+german,Black,Used,Sedan,Front-wheel drive (FWD),Automatic,40622,Available,Toronto,6,5,16999.0
+german,Red,Used,Hatchback,All-wheel drive (AWD),Automatic,50725,Available,Toronto,6,5,16999.0
+german,White,Used,Hatchback,All-wheel drive (AWD),Automatic,35000,Available,Toronto,6,5,17999.0
+german,Black,Used,Hatchback,All-wheel drive (AWD),Automatic,46868,Available,Toronto,6,5,16999.0
+german,Black,Used,Sedan,Front-wheel drive (FWD),Automatic,63742,Available,Toronto,6,6,13999.0
+german,Black,Used,Sedan,Front-wheel drive (FWD),Automatic,39899,Available,Toronto,6,6,14500.0
+american,Grey,Used,"SUV, Crossover",Front-wheel drive (FWD),Automatic,176000,Available,Toronto,4,3,12999.0
+japanese,Black,Used,Sedan,Front-wheel drive (FWD),Manual,61000,Available,Toronto,4,5,9999.0
+japanese,White,Used,Sedan,Front-wheel drive (FWD),Automatic,59807,Available,Toronto,4,5,11999.0
+german,Red,Used,Sedan,Front-wheel drive (FWD),Automatic,80500,Available,Toronto,6,5,20999.0
+german,Red,Used,Hatchback,All-wheel drive (AWD),Automatic,75000,Available,Toronto,6,5,24999.0
+german,Silver,Used,Hatchback,All-wheel drive (AWD),Automatic,77699,Available,Toronto,6,5,16999.0
+british,other,Used,"SUV, Crossover",4 x 4,Automatic,188718,Available,Toronto,6,10,19999.0
+german,Silver,Used,Sedan,Front-wheel drive (FWD),Automatic,48085,Available,Toronto,6,5,16999.0
+german,Black,Used,Hatchback,All-wheel drive (AWD),Automatic,93000,Available,Toronto,6,5,16999.0
+korean,Silver,Used,Sedan,Front-wheel drive (FWD),Automatic,49000,Available,Toronto,4,5,14999.0
+japanese,Blue,Used,Sedan,Front-wheel drive (FWD),Automatic,119000,Available,Toronto,4,6,10777.0
+german,White,Used,Hatchback,All-wheel drive (AWD),Automatic,89370,Available,Toronto,6,5,16999.0
+german,White,Used,Hatchback,All-wheel drive (AWD),Automatic,63961,Available,Toronto,6,5,16999.0
+german,White,Used,Sedan,All-wheel drive (AWD),Automatic,55000,Available,Toronto,6,5,16999.0
+japanese,White,Used,Sedan,Front-wheel drive (FWD),Automatic,78121,Available,Toronto,4,6,12999.0
+japanese,Black,Used,"SUV, Crossover",Front-wheel drive (FWD),Automatic,95000,Available,Toronto,4,6,12999.0
+japanese,Black,Used,Sedan,Front-wheel drive (FWD),Manual,83130,Available,Toronto,4,5,10500.0
+japanese,Grey,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,4840,Available,Toronto,6,2,40995.0
+korean,White,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,169000,Available,Toronto,6,9,10800.0
+japanese,other,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,215107,Available,Toronto,6,11,6979.0
+german,Blue,Used,Sedan,Front-wheel drive (FWD),Automatic,108000,Available,Toronto,4,5,14450.0
+american,other,Used,Other,4 x 4,Automatic,72450,Available,Toronto,8,4,32988.0
+korean,Blue,Used,Hatchback,Front-wheel drive (FWD),Manual,61402,Available,Toronto,4,7,11500.0
+german,Grey,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,118020,Available,other,6,8,29977.0
+japanese,Black,Used,Wagon,Unknown,Automatic,142000,Available,Toronto,6,6,16850.0
+japanese,Black,Used,Sedan,Front-wheel drive (FWD),Automatic,111000,Available,Toronto,4,6,14850.0
+american,Grey,Used,Other,Front-wheel drive (FWD),Automatic,99001,Available,Toronto,6,5,20988.0
+german,other,Used,Coupe (2 door),Rear-wheel drive (RWD),Automatic,81738,Available,Toronto,6,4,49800.0
+german,White,Used,Sedan,All-wheel drive (AWD),Automatic,67000,Available,Toronto,6,4,26880.0
+german,Black,Used,Sedan,Front-wheel drive (FWD),Automatic,78268,Available,Toronto,4,5,17500.0
+japanese,Silver,Used,Sedan,Front-wheel drive (FWD),Automatic,115000,Available,Toronto,4,7,9450.0
+german,other,Used,Sedan,Front-wheel drive (FWD),Automatic,149683,None,Toronto,4,7,8888.0
+german,White,Used,Sedan,Front-wheel drive (FWD),Automatic,77148,Available,Toronto,4,5,12990.0
+german,Grey,Used,Sedan,Front-wheel drive (FWD),Automatic,59838,Available,Toronto,4,4,14990.0
+german,Silver,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,121100,Available,Toronto,6,9,23800.0
+german,White,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,40000,Available,Toronto,4,5,35880.0
+british,Red,Used,Sedan,All-wheel drive (AWD),Automatic,54000,Available,Toronto,6,4,41888.0
+german,Black,Used,Coupe (2 door),All-wheel drive (AWD),Automatic,175637,Available,Toronto,6,5,25800.0
+german,White,Used,Sedan,All-wheel drive (AWD),Automatic,26000,Available,Toronto,6,4,34888.0
+japanese,Blue,Used,Sedan,Front-wheel drive (FWD),Automatic,135000,None,Toronto,4,7,15950.0
+japanese,Blue,Used,Pickup Truck,Unknown,Automatic,3658,Available,other,6,1,52900.0
+german,Grey,Used,Sedan,Front-wheel drive (FWD),Automatic,75552,Available,Toronto,4,5,11250.0
+german,Blue,Used,Sedan,All-wheel drive (AWD),Automatic,99997,Available,Toronto,4,6,21990.0
+american,other,Used,Other,All-wheel drive (AWD),Automatic,64101,Available,Toronto,6,4,27495.0
+american,White,Used,"SUV, Crossover",4 x 4,Automatic,196935,Available,Toronto,6,7,17188.0
+korean,Black,Used,Sedan,Front-wheel drive (FWD),Automatic,78000,Available,Toronto,4,3,15450.0
+japanese,Red,Used,Sedan,Rear-wheel drive (RWD),Automatic,53182,Available,other,4,6,21495.0
+japanese,Grey,Used,"SUV, Crossover",Unknown,Automatic,148000,Available,Toronto,6,9,16950.0
+german,Red,Used,Convertible,Rear-wheel drive (RWD),Manual,62100,Available,Toronto,6,21,25800.0
+japanese,other,Used,"Minivan, Van",Unknown,Automatic,213000,None,Toronto,6,14,3400.0
+american,Black,Used,"SUV, Crossover",4 x 4,Automatic,74107,Available,other_GTA,6,3,43995.0
+american,Blue,Used,Pickup Truck,4 x 4,Automatic,78549,Available,other,6,4,34990.0
+german,White,Used,Coupe (2 door),Rear-wheel drive (RWD),Automatic,118000,Available,Toronto,6,10,18800.0
+german,Black,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,70000,Available,Toronto,6,5,25999.0
+american,Red,Used,"SUV, Crossover",Unknown,Automatic,132002,Available,other,6,12,8495.0
+japanese,other,Used,"SUV, Crossover",4 x 4,Automatic,305000,None,Toronto,4,14,4500.0
+german,Black,Used,Sedan,All-wheel drive (AWD),Automatic,202300,None,Toronto,8,12,12800.0
+korean,Red,Used,"SUV, Crossover",Unknown,Automatic,56117,Available,other_GTA,4,7,12821.0
+japanese,Grey,Used,Sedan,Front-wheel drive (FWD),Automatic,60000,Available,Toronto,4,3,14999.0
+american,Red,Used,Convertible,Rear-wheel drive (RWD),Automatic,121000,Available,Toronto,8,9,14900.0
+american,White,Used,Pickup Truck,4 x 4,Automatic,246000,Available,Toronto,6,10,10950.0
+japanese,Silver,Used,Sedan,Front-wheel drive (FWD),Automatic,113000,Available,Toronto,4,11,5999.0
+german,Blue,Used,Sedan,Front-wheel drive (FWD),Automatic,120017,Available,Toronto,4,7,7999.0
+german,White,Used,Sedan,Rear-wheel drive (RWD),Automatic,40760,Available,Toronto,6,4,46999.0
+american,White,Used,Sedan,Unknown,Automatic,76099,None,Toronto,4,7,8888.0
+japanese,other,New,"Minivan, Van",Front-wheel drive (FWD),Automatic,50,New_Car,other,4,2,31313.0
+german,Blue,Used,Sedan,All-wheel drive (AWD),Automatic,118000,Available,other_GTA,6,8,23998.0
+german,Black,Used,Sedan,All-wheel drive (AWD),Automatic,14650,Available,Toronto,6,3,49890.0
+italian,White,Used,"SUV, Crossover",Front-wheel drive (FWD),Automatic,50275,Available,other,4,4,18877.0
+american,Black,Used,Coupe (2 door),Unknown,Automatic,43000,None,Toronto,8,7,17000.0
+japanese,Black,Used,Sedan,Front-wheel drive (FWD),Automatic,133221,Available,other,4,6,13799.0
+german,other,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,79268,Available,Toronto,4,5,17500.0
+german,Grey,Used,Sedan,Unknown,Automatic,220000,None,other_GTA,8,13,12000.0
+japanese,other,Used,Sedan,Front-wheel drive (FWD),Manual,79679,Available,Toronto,4,5,10500.0
+japanese,Black,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,99000,Available,Toronto,6,5,27950.0
+japanese,Blue,Used,"Minivan, Van",Front-wheel drive (FWD),Automatic,150000,None,Toronto,6,14,2999.0
+american,Grey,Used,"SUV, Crossover",4 x 4,Automatic,31302,Available,other_GTA,6,2,41495.0
+japanese,other,Used,Sedan,Front-wheel drive (FWD),Automatic,135000,Available,Toronto,4,5,14450.0
+japanese,Grey,Used,"SUV, Crossover",4 x 4,Automatic,137000,Available,Toronto,6,9,16980.0
+japanese,Red,Used,"SUV, Crossover",Unknown,Automatic,232091,None,Toronto,4,13,2888.0
+german,Black,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,31625,Available,Toronto,6,2,56999.0
+korean,Red,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,93000,Available,other,4,5,17995.0
+german,Black,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,95477,Available,Toronto,4,5,36800.0
+japanese,Black,Used,Sedan,All-wheel drive (AWD),Automatic,42235,Available,Toronto,6,4,30994.0
+american,White,Used,Other,Rear-wheel drive (RWD),Automatic,97708,Available,other_GTA,8,7,17850.0
+japanese,Grey,Used,Sedan,Front-wheel drive (FWD),Automatic,81000,Available,Toronto,4,6,12988.0
+japanese,Black,Used,Sedan,Front-wheel drive (FWD),Automatic,189000,Available,Toronto,4,8,6995.0
+japanese,Black,Used,Other,Front-wheel drive (FWD),Automatic,75076,Available,other_GTA,4,5,19995.0
+japanese,Grey,Used,"SUV, Crossover",4 x 4,Automatic,173000,Available,Toronto,6,15,5800.0
+japanese,Black,Used,Sedan,Front-wheel drive (FWD),Automatic,101759,Available,Toronto,4,5,12988.0
+german,Silver,Used,Sedan,All-wheel drive (AWD),Automatic,79989,Available,Toronto,8,8,47800.0
+american,White,Used,"Minivan, Van",Rear-wheel drive (RWD),Automatic,14889,Available,other,8,3,26498.0
+german,Grey,Used,Sedan,Front-wheel drive (FWD),Automatic,96868,Available,Toronto,4,5,12500.0
+japanese,Black,Used,Sedan,Front-wheel drive (FWD),Automatic,119000,Available,Toronto,4,6,9950.0
+korean,Blue,Used,Sedan,All-wheel drive (AWD),Automatic,12365,Available,Toronto,4,1,41900.0
+american,other,Used,Other,4 x 4,Automatic,97157,Available,Toronto,8,5,40988.0
+german,White,Used,Sedan,Front-wheel drive (FWD),Automatic,92000,Available,Toronto,4,7,9900.0
+german,Grey,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,79000,Available,Toronto,4,5,18950.0
+german,White,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,81448,Available,Toronto,4,5,19250.0
+german,Grey,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,56000,Available,Toronto,6,5,42880.0
+korean,other,New,"SUV, Crossover",All-wheel drive (AWD),Automatic,50,New_Car,other,4,2,33378.0
+german,Silver,Used,"SUV, Crossover",4 x 4,Automatic,129000,Available,other_GTA,6,8,17998.0
+german,Grey,Used,Sedan,Front-wheel drive (FWD),Automatic,54268,Available,Toronto,4,5,13990.0
+american,White,Used,Sedan,Rear-wheel drive (RWD),Manual,12032,Available,other,8,7,43988.0
+american,Blue,Used,"Minivan, Van",Rear-wheel drive (RWD),Automatic,84000,None,Toronto,8,12,11495.0
+german,White,Used,Sedan,All-wheel drive (AWD),Automatic,64000,None,Toronto,4,6,19500.0
+japanese,Blue,New,"SUV, Crossover",Front-wheel drive (FWD),Automatic,50,New_Car,other,4,1,30946.0
+american,Black,Used,"SUV, Crossover",Unknown,Automatic,104000,Available,Toronto,6,6,15850.0
+german,White,Used,Sedan,All-wheel drive (AWD),Automatic,137226,None,Toronto,4,10,13995.0
+american,Black,New,"SUV, Crossover",4 x 4,Automatic,50,New_Car,other_GTA,6,2,102988.0
+american,Red,Used,Coupe (2 door),Rear-wheel drive (RWD),Manual,133247,Available,Toronto,8,16,21800.0
+japanese,other,New,Sedan,Front-wheel drive (FWD),Automatic,50,New_Car,Toronto,4,1,28018.0
+american,other,Used,Convertible,Rear-wheel drive (RWD),Automatic,21399,Available,Toronto,8,4,76800.0
+japanese,Silver,Used,Sedan,Front-wheel drive (FWD),Automatic,154868,None,Toronto,4,13,5300.0
+japanese,Blue,Used,Sedan,Unknown,Automatic,112844,Available,other_GTA,4,7,9382.0
+american,Black,Used,Pickup Truck,4 x 4,Automatic,190000,None,Toronto,8,11,9600.0
+american,Grey,Used,Sedan,Front-wheel drive (FWD),Automatic,44000,Available,Toronto,4,3,19999.0
+german,White,Used,"Minivan, Van",Rear-wheel drive (RWD),Automatic,114465,None,Toronto,6,9,26900.0
+german,White,Used,Hatchback,Front-wheel drive (FWD),Automatic,50000,Available,other_GTA,4,3,18995.0
+japanese,other,Used,Other,All-wheel drive (AWD),Automatic,198000,None,Toronto,4,12,3995.0
+german,Black,Used,Coupe (2 door),All-wheel drive (AWD),Automatic,58427,Available,Toronto,6,7,42800.0
+american,other,Used,Sedan,Front-wheel drive (FWD),Automatic,122000,Available,Toronto,4,3,12999.0
+japanese,other,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,67913,Available,Toronto,6,3,44800.0
+italian,other,Used,Convertible,Front-wheel drive (FWD),Automatic,37671,Available,Toronto,4,8,9800.0
+japanese,Black,New,"SUV, Crossover",All-wheel drive (AWD),Automatic,50,New_Car,Toronto,4,1,38758.0
+japanese,Grey,New,Sedan,Front-wheel drive (FWD),Automatic,50,New_Car,Toronto,4,1,28018.0
+german,White,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,51000,Available,Toronto,6,4,47888.0
+american,other,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,63394,Available,Toronto,4,3,23908.0
+american,White,Used,"Minivan, Van",Rear-wheel drive (RWD),Automatic,43464,None,other,6,3,35990.0
+italian,other,Used,Sedan,All-wheel drive (AWD),Automatic,76849,Available,Toronto,4,6,48800.0
+japanese,White,Used,Sedan,All-wheel drive (AWD),Automatic,72789,Available,other,6,3,27300.0
+american,other,Used,Coupe (2 door),Rear-wheel drive (RWD),Manual,57932,Available,other,8,4,22477.0
+japanese,White,Used,Sedan,Front-wheel drive (FWD),Automatic,51873,Available,Toronto,4,5,17688.0
+american,Black,Used,"Minivan, Van",Front-wheel drive (FWD),Automatic,68978,Available,Toronto,6,3,22035.0
+japanese,Black,Used,"Minivan, Van",Front-wheel drive (FWD),Automatic,53562,Available,other_GTA,6,8,21999.0
+japanese,Silver,Used,Sedan,All-wheel drive (AWD),Automatic,126897,Available,Toronto,6,14,4495.0
+american,White,Used,Other,Rear-wheel drive (RWD),Automatic,84146,Available,other_GTA,6,5,25850.0
+japanese,Blue,Used,Hatchback,Front-wheel drive (FWD),Automatic,252000,None,Toronto,4,12,2999.0
+british,White,Used,"SUV, Crossover",4 x 4,Automatic,115734,Available,Toronto,6,9,23699.0
+american,White,Used,Sedan,Front-wheel drive (FWD),Automatic,174999,Available,Toronto,4,9,8980.0
+american,White,Used,"Minivan, Van",Front-wheel drive (FWD),Automatic,133000,Available,Toronto,4,5,16900.0
+american,Blue,Used,"Minivan, Van",Front-wheel drive (FWD),Automatic,191000,Available,other,6,10,6498.0
+american,Silver,Used,"Minivan, Van",Front-wheel drive (FWD),Automatic,139000,Available,Toronto,6,6,12900.0
+american,Grey,Used,Pickup Truck,4 x 4,Automatic,65235,Available,other,6,3,37490.0
+japanese,Grey,Used,Sedan,Unknown,Automatic,74517,None,Toronto,4,7,12988.0
+american,Black,Used,"SUV, Crossover",Front-wheel drive (FWD),Automatic,94672,Available,Toronto,4,6,12999.0
+american,Black,Used,Pickup Truck,4 x 4,Automatic,124225,Available,other_GTA,8,5,27495.0
+american,White,Used,"Minivan, Van",Rear-wheel drive (RWD),Automatic,53142,None,other,8,3,26990.0
+german,Silver,Used,Sedan,Unknown,Automatic,152812,None,Toronto,4,12,9888.0
+japanese,other,Used,Sedan,Front-wheel drive (FWD),Automatic,215000,None,Toronto,4,10,2500.0
+american,Grey,Used,Sedan,Front-wheel drive (FWD),Automatic,67000,Available,Toronto,4,4,14999.0
+american,Blue,Used,Pickup Truck,Rear-wheel drive (RWD),Automatic,77000,None,Toronto,8,8,20995.0
+korean,Black,Used,Sedan,Front-wheel drive (FWD),Automatic,50000,Available,Toronto,4,5,16999.0
+german,Black,Used,Sedan,All-wheel drive (AWD),Manual,223050,Available,Toronto,6,9,7979.0
+korean,Grey,Used,Sedan,Unknown,Automatic,229,None,Toronto,6,13,3699.0
+japanese,White,Used,Hatchback,4 x 4,Automatic,177000,None,Toronto,4,6,10250.0
+korean,Blue,Used,Sedan,Front-wheel drive (FWD),Automatic,104793,Available,other_GTA,4,7,10950.0
+german,other,Used,Sedan,All-wheel drive (AWD),Automatic,167000,Available,Toronto,6,9,14700.0
+japanese,Silver,Used,Wagon,All-wheel drive (AWD),Automatic,190000,Available,Toronto,4,8,9500.0
+japanese,Blue,Used,Sedan,Front-wheel drive (FWD),Automatic,70000,Available,Toronto,4,5,14450.0
+german,White,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,63606,Available,Toronto,6,4,76800.0
+german,Black,Used,Sedan,All-wheel drive (AWD),Automatic,81634,Available,Toronto,6,5,25450.0
+german,other,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,138762,Available,Toronto,6,6,33800.0
+german,White,Used,"Minivan, Van",Rear-wheel drive (RWD),Automatic,238172,None,Toronto,6,9,24900.0
+japanese,other,Used,Coupe (2 door),All-wheel drive (AWD),Automatic,8217,Available,Toronto,6,3,108800.0
+german,White,Used,"Minivan, Van",Rear-wheel drive (RWD),Automatic,386504,None,Toronto,6,8,24500.0
+german,White,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,47057,Available,Toronto,6,4,59800.0
+american,White,Used,Pickup Truck,4 x 4,Automatic,59500,Available,other_GTA,8,8,24995.0
+japanese,Grey,Used,"SUV, Crossover",Front-wheel drive (FWD),Automatic,83390,None,Toronto,4,4,18995.0
+american,White,New,Sedan,Rear-wheel drive (RWD),Automatic,50,New_Car,other,6,2,66316.0
+korean,Black,Used,"SUV, Crossover",Front-wheel drive (FWD),Automatic,37000,Available,Toronto,4,6,16900.01
+german,White,Used,Convertible,All-wheel drive (AWD),Automatic,37726,Available,Toronto,6,4,44800.0
+german,White,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,64500,Available,Toronto,6,5,59500.0
+german,Black,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,30600,Available,Toronto,4,4,30890.0
+german,Grey,Used,Sedan,Front-wheel drive (FWD),Automatic,56968,Available,Toronto,4,5,17250.0
+japanese,Silver,Used,Sedan,Front-wheel drive (FWD),Automatic,180000,Available,Toronto,4,15,2999.0
+japanese,White,Used,Pickup Truck,4 x 4,Automatic,45543,Available,other,6,4,36995.0
+american,Black,Used,"SUV, Crossover",4 x 4,Automatic,43379,Available,Toronto,8,4,61900.0
+japanese,Black,Used,Sedan,All-wheel drive (AWD),Automatic,76563,Available,Toronto,6,6,14995.0
+german,Blue,Used,Sedan,All-wheel drive (AWD),Automatic,79000,Available,Toronto,6,6,18950.0
+german,other,Used,Sedan,Front-wheel drive (FWD),Automatic,135761,Available,Toronto,4,7,11997.0
+german,Grey,Used,Sedan,All-wheel drive (AWD),Automatic,115463,Available,other_GTA,4,6,19995.0
+german,Black,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,87827,Available,Toronto,4,6,34800.0
+british,Black,Used,"SUV, Crossover",4 x 4,Automatic,58611,Available,Toronto,8,6,42499.0
+german,White,Used,Sedan,Front-wheel drive (FWD),Automatic,58148,Available,Toronto,4,5,17990.0
+korean,Grey,Used,Sedan,Front-wheel drive (FWD),Automatic,105000,Available,Toronto,4,8,9900.0
+korean,Blue,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,115000,Available,Toronto,6,9,9800.0
+american,other,Used,"SUV, Crossover",4 x 4,Automatic,242561,Available,Toronto,6,17,1995.0
+american,other,Used,Pickup Truck,4 x 4,Automatic,147275,Available,other_GTA,8,12,16850.0
+german,Black,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,129996,Available,Toronto,8,8,24800.0
+american,White,Used,"Minivan, Van",Rear-wheel drive (RWD),Automatic,265500,Available,Toronto,8,8,9979.0
+korean,White,Used,"SUV, Crossover",Front-wheel drive (FWD),Automatic,75000,Available,Toronto,6,10,6300.0
+japanese,Red,Used,Other,Front-wheel drive (FWD),Automatic,95651,Available,other_GTA,4,6,10787.0
+american,White,Used,"Minivan, Van",Rear-wheel drive (RWD),Automatic,106437,None,other,6,4,30990.0
+korean,Black,Used,Sedan,Rear-wheel drive (RWD),Automatic,80558,Available,other,6,7,16495.0
+japanese,Black,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,44496,Available,Toronto,6,5,30995.0
+japanese,Blue,Used,Other,Front-wheel drive (FWD),Automatic,149353,Available,other_GTA,4,12,3910.0
+italian,other,Used,Other,Front-wheel drive (FWD),Automatic,115000,Available,other_GTA,4,7,7886.0
+japanese,Blue,Used,Other,All-wheel drive (AWD),Automatic,65000,Available,other_GTA,4,4,23748.0
+american,Red,Used,Pickup Truck,4 x 4,Automatic,176374,Available,other,6,4,27990.0
+german,White,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,76766,Available,Toronto,6,6,40800.0
+american,Red,Used,Pickup Truck,Unknown,Automatic,400000,None,Toronto,5,15,3500.0
+american,Grey,Used,Other,Front-wheel drive (FWD),Manual,135000,Available,other_GTA,4,9,6039.0
+korean,White,Used,Other,Rear-wheel drive (RWD),Manual,28797,Available,other_GTA,6,7,15910.0
+japanese,White,Used,Hatchback,Front-wheel drive (FWD),Automatic,41164,Available,other_GTA,4,5,17910.0
+american,Black,Used,Other,Front-wheel drive (FWD),Automatic,52113,Available,other_GTA,4,5,16910.0
+japanese,other,New,Sedan,All-wheel drive (AWD),Automatic,50,New_Car,other,4,1,40311.0
+american,Black,Lease Takeover,Coupe (2 door),Rear-wheel drive (RWD),Manual,16300,None,Toronto,8,3,37500.0
+japanese,Silver,Used,"SUV, Crossover",Unknown,Automatic,11106,None,other,4,2,33999.0
+german,Silver,Used,Sedan,All-wheel drive (AWD),Automatic,71627,Available,Toronto,6,5,25999.0
+japanese,White,Used,Other,All-wheel drive (AWD),Automatic,29953,Available,other_GTA,4,4,22910.0
+german,Black,Used,Other,Front-wheel drive (FWD),Automatic,130000,Available,other_GTA,4,11,9910.0
+japanese,Black,Used,Other,Front-wheel drive (FWD),Automatic,284983,Available,other_GTA,4,14,2910.0
+japanese,White,Used,Other,Front-wheel drive (FWD),Automatic,81459,Available,other_GTA,4,5,11952.0
+japanese,Black,Used,Other,Unknown,Manual,17300,Available,other_GTA,4,6,4910.0
+japanese,Grey,Used,Other,All-wheel drive (AWD),Automatic,49281,Available,other_GTA,4,4,26910.0
+japanese,Black,Used,Other,Front-wheel drive (FWD),Automatic,49580,Available,other_GTA,4,5,13992.0
+japanese,Black,Used,Other,Front-wheel drive (FWD),Manual,79969,Available,other_GTA,4,5,10475.0
+american,White,Used,Sedan,Unknown,Automatic,80773,Available,other,4,5,14695.0
+japanese,Black,Used,Sedan,Front-wheel drive (FWD),Automatic,95000,None,Toronto,4,7,9995.0
+german,Black,Used,Sedan,Rear-wheel drive (RWD),Automatic,127352,Available,Toronto,6,9,15800.0
+british,White,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,114406,Available,Toronto,8,5,27800.0
+korean,Grey,Used,"SUV, Crossover",Front-wheel drive (FWD),Automatic,86000,Available,Toronto,6,9,12950.0
+british,Black,Used,"SUV, Crossover",4 x 4,Automatic,25325,Available,Toronto,8,2,118800.0
+japanese,Grey,Used,Sedan,Unknown,Automatic,202000,None,Toronto,4,10,3990.0
+american,Grey,Used,Other,Front-wheel drive (FWD),Manual,134992,Available,other_GTA,4,9,6039.0
+japanese,White,Used,Other,Front-wheel drive (FWD),Automatic,82000,Available,other_GTA,4,4,14488.0
+japanese,Grey,Used,Other,All-wheel drive (AWD),Automatic,57000,Available,other_GTA,6,5,24999.0
+japanese,Grey,Used,Sedan,Front-wheel drive (FWD),Automatic,129000,Available,Toronto,4,5,12450.0
+american,Red,Used,"SUV, Crossover",4 x 4,Automatic,20345,Available,other,6,4,24997.0
+american,Black,Used,Pickup Truck,4 x 4,Automatic,114000,None,Toronto,8,5,26000.0
+german,White,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,145024,Available,Toronto,6,8,35800.0
+british,White,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,110093,Available,Toronto,6,7,28800.0
+german,White,Used,Sedan,All-wheel drive (AWD),Automatic,86788,Available,Toronto,8,5,43800.0
+japanese,Black,Used,Other,All-wheel drive (AWD),Automatic,54000,Available,other_GTA,4,4,19988.0
+japanese,White,Used,Other,All-wheel drive (AWD),Automatic,91209,Available,other_GTA,4,5,19800.0
+american,other,Used,Other,All-wheel drive (AWD),Automatic,71977,Available,Toronto,6,4,34988.0
+german,Black,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,40019,Available,Toronto,6,2,45800.0
+german,Silver,Used,Sedan,All-wheel drive (AWD),Automatic,62375,Available,Toronto,8,5,45800.0
+japanese,White,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,82304,Available,other_GTA,4,5,19500.0
+german,Black,Used,Sedan,All-wheel drive (AWD),Automatic,19600,Available,Toronto,6,3,49890.0
+japanese,Red,Used,Sedan,All-wheel drive (AWD),Manual,56744,Available,Toronto,4,5,33800.0
+japanese,Blue,Used,"Minivan, Van",Front-wheel drive (FWD),Automatic,148000,None,Toronto,6,11,8200.0
+japanese,other,Used,"Minivan, Van",Front-wheel drive (FWD),Automatic,216000,None,Toronto,6,14,3200.0
+korean,Silver,Used,Sedan,Front-wheel drive (FWD),Automatic,116000,Available,Toronto,4,3,15850.0
+british,Grey,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,62000,Available,Toronto,8,5,46799.0
+american,Grey,Used,Pickup Truck,Rear-wheel drive (RWD),Automatic,30017,Available,other,6,4,23995.0
+german,other,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,54000,Available,Toronto,4,5,18850.0
+american,Grey,Used,Coupe (2 door),Rear-wheel drive (RWD),Automatic,14000,Available,Toronto,8,2,29750.0
+british,Grey,Used,Sedan,All-wheel drive (AWD),Automatic,67000,Available,Toronto,8,6,24999.0
+american,other,Used,"Minivan, Van",Front-wheel drive (FWD),Automatic,350000,None,Toronto,6,19,400.0
+american,White,Used,Pickup Truck,4 x 4,Automatic,48541,Available,other,6,4,40490.0
+german,Black,Used,Sedan,Front-wheel drive (FWD),Manual,69996,Available,Toronto,4,5,8750.0
+american,other,Used,Sedan,Front-wheel drive (FWD),Automatic,90993,Available,Toronto,6,12,3495.0
+american,other,Used,Wagon,Front-wheel drive (FWD),Automatic,136400,Available,Toronto,4,9,6979.0
+german,other,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,104145,Available,Toronto,6,5,31800.0
+german,Black,Used,Sedan,All-wheel drive (AWD),Automatic,113000,Available,Toronto,8,10,18950.0
+japanese,Blue,Used,Wagon,Front-wheel drive (FWD),Manual,195000,Available,other,4,10,5498.0
+japanese,other,Used,Sedan,Front-wheel drive (FWD),Automatic,350,None,Toronto,6,16,2350.0
+japanese,Black,Used,Sedan,Front-wheel drive (FWD),Automatic,95000,Available,Toronto,4,5,9800.0
+japanese,Blue,Used,"Minivan, Van",Front-wheel drive (FWD),Automatic,41,Available,other,6,1,51900.0
+american,Red,New,"SUV, Crossover",4 x 4,Automatic,50,New_Car,other_GTA,6,2,44488.0
+german,White,Used,Convertible,Rear-wheel drive (RWD),Manual,79517,Available,Toronto,6,13,27800.0
+american,Black,Used,Pickup Truck,4 x 4,Automatic,46,Available,Toronto,8,2,57920.0
+japanese,other,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,92122,Available,other,6,8,12495.0
+german,Silver,Used,Sedan,All-wheel drive (AWD),Automatic,66113,Available,Toronto,4,5,28800.0
+american,Red,Used,"SUV, Crossover",4 x 4,Automatic,212302,Available,Toronto,6,11,4495.0
+japanese,other,Used,"SUV, Crossover",4 x 4,Automatic,171000,None,Toronto,6,19,2400.0
+japanese,Grey,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,79725,Available,Toronto,6,7,19106.0
+german,Black,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,69803,Available,Toronto,4,4,34988.0
+german,other,Used,Sedan,All-wheel drive (AWD),Automatic,58208,Available,Toronto,6,4,38800.0
+japanese,Grey,Used,Sedan,Front-wheel drive (FWD),Automatic,33321,Available,other_GTA,6,4,37999.0
+german,other,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,55542,Available,Toronto,6,4,53800.0
+german,White,Used,Sedan,All-wheel drive (AWD),Automatic,78537,Available,Toronto,4,7,20800.0
+german,Black,Used,Wagon,All-wheel drive (AWD),Automatic,75769,Available,Toronto,4,4,29480.0
+american,Red,Used,Sedan,Front-wheel drive (FWD),Automatic,103000,None,Toronto,4,6,8900.0
+german,Black,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,81590,Available,Toronto,4,5,19500.0
+japanese,Grey,Used,Sedan,All-wheel drive (AWD),Manual,189000,Available,Toronto,4,12,4900.0
+german,White,Used,Sedan,All-wheel drive (AWD),Automatic,77449,Available,Toronto,8,6,37800.0
+german,White,Used,Sedan,Front-wheel drive (FWD),Automatic,78388,Available,Toronto,4,5,16250.0
+american,Black,Used,Pickup Truck,4 x 4,Automatic,43101,Available,other_GTA,8,6,24495.0
+german,White,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,76838,Available,Toronto,6,6,34800.0
+american,White,Used,"Minivan, Van",Rear-wheel drive (RWD),Automatic,36000,Available,Toronto,8,7,29900.0
+german,Silver,Used,Sedan,All-wheel drive (AWD),Automatic,79745,Available,other_GTA,6,5,24999.0
+german,Grey,Used,Sedan,Front-wheel drive (FWD),Automatic,99000,Available,other_GTA,4,8,11780.0
+japanese,Blue,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,104000,Available,Toronto,6,5,20999.0
+american,White,Used,Sedan,Rear-wheel drive (RWD),Automatic,17992,Available,other,8,5,34000.0
+german,Black,Used,Sedan,Front-wheel drive (FWD),Automatic,51308,Available,Toronto,4,4,17990.0
+japanese,other,Used,Sedan,Unknown,Automatic,178000,None,Toronto,4,8,9980.0
+korean,other,New,Sedan,Front-wheel drive (FWD),Automatic,50,New_Car,other,4,3,28678.0
+german,Grey,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,95000,None,Toronto,6,8,25988.0
+german,Red,Used,Sedan,All-wheel drive (AWD),Automatic,83521,Available,Toronto,4,7,18995.0
+american,Black,Used,"SUV, Crossover",Front-wheel drive (FWD),Automatic,98000,Available,Toronto,6,10,6995.0
+american,Black,Used,"SUV, Crossover",Front-wheel drive (FWD),Automatic,133000,Available,Toronto,6,4,14850.0
+american,Silver,Used,Hatchback,Front-wheel drive (FWD),Automatic,48000,Available,Toronto,4,5,12500.0
+american,White,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,56520,Available,other,4,4,23490.0
+german,Silver,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,135000,None,Toronto,6,8,25988.0
+american,Red,New,"Minivan, Van",Front-wheel drive (FWD),Automatic,50,New_Car,other,6,1,39695.0
+american,White,Used,"SUV, Crossover",Unknown,Automatic,114923,Available,Toronto,4,6,13888.0
+british,White,Used,"SUV, Crossover",4 x 4,Automatic,37018,Available,other,8,3,38728.0
+german,Grey,Used,Sedan,All-wheel drive (AWD),Automatic,84000,None,Toronto,4,4,24450.0
+american,Black,Used,Coupe (2 door),Front-wheel drive (FWD),Manual,150553,Available,Toronto,4,10,3899.0
+japanese,Grey,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,82035,Available,other,6,4,31990.0
+american,Black,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,28688,Available,Toronto,6,2,40488.0
+japanese,Black,Used,Coupe (2 door),All-wheel drive (AWD),Automatic,95000,None,Toronto,6,11,56988.0
+japanese,Silver,Used,"SUV, Crossover",Unknown,Automatic,189535,None,Toronto,6,12,8888.0
+american,Black,Used,Pickup Truck,4 x 4,Automatic,16092,Available,other,6,3,35425.0
+american,Blue,Used,"Minivan, Van",Front-wheel drive (FWD),Automatic,138566,Available,Toronto,6,6,12999.0
+german,Grey,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,8000,Available,other_GTA,4,3,38995.0
+american,White,Used,Pickup Truck,4 x 4,Automatic,53494,Available,Toronto,6,3,54995.0
+american,Black,Used,Pickup Truck,4 x 4,Automatic,107861,Available,other,6,4,30990.0
+japanese,White,Used,Hatchback,Front-wheel drive (FWD),Automatic,129000,None,Toronto,4,6,8850.0
+korean,Grey,Used,"SUV, Crossover",Front-wheel drive (FWD),Automatic,136000,Available,Toronto,6,9,9700.0
+italian,Grey,Used,Sedan,Unknown,Automatic,90500,Available,other,4,13,26997.0
+japanese,Black,Used,Sedan,Rear-wheel drive (RWD),Manual,29579,Available,other,4,6,19999.0
+american,Black,New,"SUV, Crossover",Front-wheel drive (FWD),Automatic,50,New_Car,Toronto,6,1,46499.0
+japanese,other,Used,"Minivan, Van",Front-wheel drive (FWD),Automatic,129000,Available,Toronto,6,6,17950.0
+japanese,Grey,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,92000,Available,Toronto,6,6,20999.0
+british,other,Used,"SUV, Crossover",4 x 4,Automatic,76848,Available,Toronto,6,8,29999.0
+german,Grey,Used,Sedan,Front-wheel drive (FWD),Automatic,230000,Available,Toronto,4,7,9995.0
+japanese,Grey,Used,Sedan,Front-wheel drive (FWD),Automatic,86000,Available,Toronto,4,6,10850.0
+german,Grey,Used,Sedan,Front-wheel drive (FWD),Automatic,71152,Available,Toronto,4,5,15990.0
+american,Silver,Used,"Minivan, Van",Front-wheel drive (FWD),Automatic,32479,Available,other_GTA,6,2,26995.0
+american,Grey,Used,"SUV, Crossover",Unknown,Automatic,69755,Available,other,6,5,28200.0
+german,White,Used,Sedan,All-wheel drive (AWD),Automatic,80000,Available,Toronto,6,5,17950.0
+japanese,other,Used,Sedan,Front-wheel drive (FWD),Automatic,58893,Available,Toronto,4,3,14763.0
+german,White,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,78000,Available,other_GTA,8,4,58000.0
+japanese,Red,Used,Sedan,Front-wheel drive (FWD),Automatic,170000,Available,Toronto,4,5,9999.0
+american,Blue,Used,Pickup Truck,4 x 4,Automatic,46000,Available,other_GTA,8,4,32500.0
+german,Silver,Used,Sedan,All-wheel drive (AWD),Automatic,114000,Available,Toronto,4,5,22850.0
+japanese,Black,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,119000,Available,Toronto,6,6,23850.0
+german,Black,Used,Sedan,All-wheel drive (AWD),Automatic,155000,Available,Toronto,4,8,9500.0
+american,other,New,"Minivan, Van",Front-wheel drive (FWD),Automatic,50,New_Car,other,6,1,29230.0
+japanese,other,Used,Sedan,All-wheel drive (AWD),Automatic,111231,Available,other,6,8,14995.0
+american,Black,Used,Pickup Truck,4 x 4,Automatic,134787,Available,Toronto,6,7,27800.0
+american,Silver,Used,Sedan,Front-wheel drive (FWD),Automatic,172216,None,Toronto,4,6,6899.0
+korean,Blue,Used,Sedan,Front-wheel drive (FWD),Automatic,165000,Available,Toronto,4,6,7999.0
+american,Grey,Used,"Minivan, Van",Front-wheel drive (FWD),Automatic,88351,Available,other_GTA,6,4,19995.0
+american,White,Used,"Minivan, Van",Rear-wheel drive (RWD),Automatic,152444,None,other,8,5,18990.0
+japanese,Black,Used,Coupe (2 door),Unknown,Manual,187000,None,other,4,11,5500.0
+american,other,Used,Pickup Truck,4 x 4,Automatic,33527,Available,other,8,4,48995.0
+american,Blue,Used,"Minivan, Van",Rear-wheel drive (RWD),Automatic,68000,None,Toronto,8,7,18995.0
+german,Blue,Used,Sedan,All-wheel drive (AWD),Automatic,54000,Available,Toronto,4,5,23999.0
+japanese,Red,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,126000,Available,Toronto,4,4,16850.0
+german,other,Used,Coupe (2 door),All-wheel drive (AWD),Automatic,119853,Available,Toronto,4,7,18000.0
+japanese,Grey,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,141000,Available,Toronto,4,6,14950.0
+korean,White,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,118000,Available,Toronto,4,5,17450.0
+italian,Black,Used,Sedan,All-wheel drive (AWD),Automatic,33000,Available,Toronto,4,5,56888.0
+american,Black,Used,"SUV, Crossover",4 x 4,Automatic,251000,Available,Toronto,8,13,10999.0
+american,other,Used,Wagon,All-wheel drive (AWD),Automatic,83240,Available,other,6,3,24495.0
+american,Blue,New,Pickup Truck,4 x 4,Automatic,50,New_Car,Toronto,6,2,38398.0
+german,Black,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,35950,Available,Toronto,4,4,28890.0
+japanese,Blue,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,40373,Available,other_GTA,4,4,23998.0
+american,Black,Used,Pickup Truck,4 x 4,Automatic,79716,None,Toronto,8,4,24995.0
+american,Black,Used,"SUV, Crossover",Unknown,Automatic,136000,Available,Toronto,6,4,16950.0
+american,Grey,Used,"SUV, Crossover",Front-wheel drive (FWD),Automatic,86128,Available,Toronto,4,6,13999.0
+american,Grey,New,Pickup Truck,4 x 4,Automatic,50,New_Car,other,8,2,52418.0
+japanese,Black,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,161531,Available,Toronto,6,7,17980.0
+japanese,other,Used,"Minivan, Van",Front-wheel drive (FWD),Automatic,143239,Available,Toronto,6,9,13742.0
+japanese,Black,Used,Other,Unknown,Automatic,200000,None,Toronto,4,15,1800.0
+american,White,Used,Wagon,All-wheel drive (AWD),Automatic,141000,Available,Toronto,4,5,19450.0
+german,other,Used,Sedan,Unknown,Automatic,79190,None,Toronto,4,8,10888.0
+american,White,Used,"SUV, Crossover",4 x 4,Automatic,87174,Available,other_GTA,4,6,17995.0
+american,Red,Used,Coupe (2 door),Rear-wheel drive (RWD),Manual,18905,Available,Toronto,8,3,31999.0
+japanese,Black,Used,Sedan,All-wheel drive (AWD),Automatic,51304,Available,other_GTA,6,4,35688.0
+japanese,White,Used,Sedan,Front-wheel drive (FWD),Manual,87000,Available,Toronto,4,5,16950.0
+german,White,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,158700,Available,Toronto,8,11,23800.0
+german,other,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,59628,Available,Toronto,6,5,44800.0
+german,Black,Used,Coupe (2 door),All-wheel drive (AWD),Automatic,75505,Available,Toronto,6,7,39800.0
+german,Black,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,173229,Available,Toronto,6,8,26800.0
+italian,Black,Used,Coupe (2 door),Rear-wheel drive (RWD),Automatic,62710,Available,Toronto,4,11,45800.0
+british,Grey,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,71641,Available,Toronto,8,6,35800.0
+german,Black,Used,Sedan,All-wheel drive (AWD),Automatic,152361,Available,Toronto,6,8,18800.0
+japanese,Blue,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,3300,Available,other,6,2,53900.0
+japanese,Black,Used,"SUV, Crossover",Front-wheel drive (FWD),Automatic,94000,Available,Toronto,4,6,14999.0
+korean,Black,Used,Wagon,Front-wheel drive (FWD),Manual,167000,Available,other,4,11,4999.0
+german,White,Used,Sedan,All-wheel drive (AWD),Automatic,19592,Available,Toronto,4,2,37800.0
+american,Black,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,149200,Available,Toronto,8,11,23800.0
+german,Silver,Used,Sedan,All-wheel drive (AWD),Automatic,89874,Available,Toronto,8,7,33800.0
+american,Black,Used,Convertible,Rear-wheel drive (RWD),Automatic,68603,Available,Toronto,8,13,32800.0
+british,other,Used,"SUV, Crossover",4 x 4,Automatic,145497,Available,Toronto,6,10,17800.0
+german,White,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,77987,Available,Toronto,6,6,26800.0
+japanese,Black,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,143000,Available,Toronto,4,6,14850.0
+italian,White,Used,Coupe (2 door),Front-wheel drive (FWD),Manual,112113,Available,Toronto,4,7,6495.0
+japanese,Blue,Used,"Minivan, Van",Front-wheel drive (FWD),Automatic,173000,Available,Toronto,6,13,7995.0
+german,White,Used,Sedan,All-wheel drive (AWD),Automatic,91744,Available,Toronto,8,7,33800.0
+german,White,Used,Sedan,All-wheel drive (AWD),Automatic,148014,Available,Toronto,8,8,25800.0
+japanese,Black,Used,"SUV, Crossover",Unknown,Automatic,19267,Available,Toronto,6,3,41800.0
+american,Silver,Used,Pickup Truck,4 x 4,Automatic,254674,Available,other,8,6,15900.0
+korean,other,Used,Sedan,Unknown,Automatic,178000,None,Toronto,4,7,7990.0
+japanese,Grey,Used,Sedan,All-wheel drive (AWD),Automatic,77000,Available,Toronto,6,5,26450.0
+british,White,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,105000,Available,Toronto,6,7,31888.0
+korean,White,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,33511,Available,Toronto,4,2,31795.0
+german,Black,Used,Sedan,All-wheel drive (AWD),Automatic,77000,Available,other_GTA,6,8,29495.0
+german,Black,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,136435,Available,other_GTA,8,8,24995.0
+japanese,Silver,Used,Wagon,Front-wheel drive (FWD),Manual,144,None,Toronto,4,18,2600.0
+american,White,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,3995,Available,Toronto,6,2,46243.0
+american,other,Used,"Minivan, Van",Front-wheel drive (FWD),Automatic,181235,None,Toronto,6,12,4500.0
+american,Red,Used,"Minivan, Van",Front-wheel drive (FWD),Automatic,138000,Available,Toronto,6,8,9900.0
+american,Black,Used,Pickup Truck,4 x 4,Automatic,79742,Available,other,6,4,35290.0
+american,Red,New,Coupe (2 door),Rear-wheel drive (RWD),Automatic,50,New_Car,Toronto,8,2,28888.0
+american,Grey,Used,Pickup Truck,4 x 4,Automatic,66546,Available,other,6,4,34990.0
+korean,other,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,67811,Available,Toronto,4,4,25900.0
+american,other,Used,"SUV, Crossover",4 x 4,Automatic,34772,Available,Toronto,8,4,59800.0
+american,Grey,Used,"SUV, Crossover",Unknown,Automatic,129000,Available,Toronto,6,4,16950.0
+korean,Black,Used,"SUV, Crossover",Front-wheel drive (FWD),Manual,63792,Available,Toronto,4,7,10213.0
+german,Black,Used,Sedan,All-wheel drive (AWD),Automatic,117154,Available,Toronto,8,7,35888.0
+american,Red,New,"Minivan, Van",Front-wheel drive (FWD),Automatic,50,New_Car,other,6,1,37510.0
+american,White,Used,Pickup Truck,4 x 4,Automatic,135000,None,Toronto,8,12,15000.0
+american,Black,Used,"SUV, Crossover",Front-wheel drive (FWD),Automatic,169000,None,other_GTA,6,14,2750.0
+german,Silver,Used,Sedan,Front-wheel drive (FWD),Manual,520000,Available,Toronto,4,19,1500.0
+japanese,Black,Used,"Minivan, Van",Front-wheel drive (FWD),Automatic,18300,Available,other,6,2,32990.0
+german,White,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,43000,Available,Toronto,4,5,15950.0
+japanese,Grey,Used,Sedan,Front-wheel drive (FWD),Manual,71918,Available,Toronto,4,5,9999.0
+american,Grey,New,"SUV, Crossover",Front-wheel drive (FWD),Automatic,50,New_Car,Toronto,4,2,30498.0
+american,White,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,21398,Available,other_GTA,6,2,28995.0
+japanese,Silver,Used,Sedan,Unknown,Automatic,31269,Available,other,6,5,20964.0
+japanese,White,Used,"SUV, Crossover",Unknown,Automatic,61321,Available,other,6,4,36988.0
+korean,other,New,Hatchback,Front-wheel drive (FWD),Automatic,50,New_Car,other,4,1,32428.0
+german,White,Used,Sedan,Front-wheel drive (FWD),Automatic,74761,Available,Toronto,4,5,12990.0
+japanese,Grey,Used,Wagon,Front-wheel drive (FWD),Automatic,125000,Available,Toronto,4,5,11850.0
+british,Black,Used,"SUV, Crossover",4 x 4,Automatic,44425,Available,other,8,5,76990.0
+german,White,Used,Sedan,Front-wheel drive (FWD),Manual,98918,Available,Toronto,4,5,11500.0
+japanese,Grey,Used,"SUV, Crossover",Unknown,Automatic,41230,Available,Toronto,6,4,41900.0
+german,White,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,107000,Available,Toronto,8,6,41250.0
+american,Grey,Used,Pickup Truck,4 x 4,Automatic,56512,Available,Toronto,8,3,39990.0
+korean,White,Used,"SUV, Crossover",Front-wheel drive (FWD),Automatic,143597,Available,Toronto,4,5,12888.0
+german,Grey,Used,Sedan,Front-wheel drive (FWD),Automatic,44508,Available,Toronto,4,5,17500.0
+american,Black,Used,Pickup Truck,4 x 4,Automatic,20583,Available,other,8,2,32688.0
+german,Silver,Used,Sedan,Rear-wheel drive (RWD),Automatic,130000,None,Toronto,6,11,8999.0
+american,White,Used,"SUV, Crossover",Unknown,Automatic,68596,Available,other,4,6,15995.0
+german,White,Used,Sedan,All-wheel drive (AWD),Automatic,139000,None,Toronto,4,5,19450.0
+japanese,Blue,Used,Sedan,Front-wheel drive (FWD),Automatic,65000,None,Toronto,4,5,11995.0
+japanese,White,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,57703,Available,other,4,4,21950.0
+japanese,Black,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,44445,Available,Toronto,4,3,24320.0
+japanese,White,Used,Wagon,All-wheel drive (AWD),Automatic,139307,Available,Toronto,6,8,17480.0
+japanese,Black,Used,Pickup Truck,4 x 4,Automatic,119293,Available,Toronto,6,5,27188.0
+japanese,other,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,42000,Available,other_GTA,6,5,24995.0
+italian,other,Used,Sedan,All-wheel drive (AWD),Automatic,90257,Available,Toronto,4,6,46800.0
+japanese,other,New,Sedan,All-wheel drive (AWD),Automatic,50,New_Car,other,4,1,35646.0
+german,Black,Used,Sedan,All-wheel drive (AWD),Automatic,81248,Available,Toronto,4,6,21500.0
+japanese,Silver,New,"SUV, Crossover",All-wheel drive (AWD),Automatic,50,New_Car,Toronto,6,1,71551.0
+german,Black,Used,Coupe (2 door),All-wheel drive (AWD),Automatic,46527,Available,other,6,5,44995.0
+american,White,Used,"Minivan, Van",Rear-wheel drive (RWD),Automatic,80000,Available,Toronto,8,13,11995.0
+japanese,Black,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,99000,Available,Toronto,6,5,29950.0
+german,Grey,Used,Sedan,All-wheel drive (AWD),Automatic,138000,Available,Toronto,6,9,13950.0
+korean,other,Used,Sedan,Front-wheel drive (FWD),Automatic,83523,Available,Toronto,4,6,9795.0
+japanese,other,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,22503,Available,Toronto,6,3,43998.0
+american,Black,Used,Pickup Truck,Unknown,Automatic,55,Available,other,6,2,61999.0
+korean,Black,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,47611,Available,other_GTA,4,3,24999.0
+japanese,Silver,Used,Wagon,All-wheel drive (AWD),Automatic,183000,Available,Toronto,4,14,5999.0
+german,Silver,Used,Sedan,All-wheel drive (AWD),Automatic,175786,None,Toronto,6,19,3795.0
+american,Grey,Used,Pickup Truck,4 x 4,Automatic,93914,Available,other,6,4,29490.0
+korean,Grey,Used,"SUV, Crossover",Front-wheel drive (FWD),Automatic,109000,Available,Toronto,6,9,9600.0
+german,Grey,Used,Sedan,Front-wheel drive (FWD),Automatic,67738,Available,Toronto,4,5,11750.0
+american,Silver,Used,Pickup Truck,4 x 4,Automatic,162000,Available,Toronto,8,9,13900.0
+american,White,Used,Sedan,Front-wheel drive (FWD),Automatic,98000,Available,Toronto,4,6,10450.0
+german,Grey,Used,Wagon,Front-wheel drive (FWD),Automatic,170000,None,Toronto,5,10,6000.0
+japanese,Black,Used,"SUV, Crossover",4 x 4,Automatic,169000,Available,Toronto,6,12,10500.0
+german,Black,Used,Sedan,Unknown,Manual,99780,None,Toronto,5,12,4800.0
+american,Grey,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,121000,Available,Toronto,4,5,20950.0
+korean,other,New,Sedan,Front-wheel drive (FWD),Automatic,50,New_Car,other,4,3,30028.0
+german,Red,Used,Sedan,Rear-wheel drive (RWD),Automatic,146000,None,Toronto,6,8,11500.0
+american,Blue,Used,"SUV, Crossover",Unknown,Automatic,154585,Available,other,6,11,5995.0
+british,other,Used,Sedan,Rear-wheel drive (RWD),Automatic,174000,Available,Toronto,8,11,10800.0
+german,Grey,Used,Sedan,All-wheel drive (AWD),Automatic,95000,Available,Toronto,6,6,21850.0
+american,Grey,Used,"SUV, Crossover",Unknown,Automatic,136000,Available,Toronto,4,4,15950.0
+japanese,Blue,Used,Sedan,Front-wheel drive (FWD),Automatic,80000,Available,Toronto,4,6,10777.0
+american,other,New,"Minivan, Van",Front-wheel drive (FWD),Automatic,50,New_Car,other,6,1,37655.0
+german,Red,Used,Sedan,Front-wheel drive (FWD),Automatic,77581,Available,Toronto,4,5,15990.0
+american,Black,Used,Wagon,Front-wheel drive (FWD),Automatic,79000,Available,Toronto,6,4,16950.0
+american,Black,New,"SUV, Crossover",4 x 4,Automatic,50,New_Car,other_GTA,6,2,35995.0
+japanese,Grey,Used,Sedan,Front-wheel drive (FWD),Automatic,199000,Available,Toronto,4,11,5995.0
+korean,Grey,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,139000,Available,Toronto,4,7,14450.0
+american,Red,Used,Coupe (2 door),Rear-wheel drive (RWD),Automatic,61148,Available,Toronto,8,7,24800.0
+american,Grey,Used,Sedan,Front-wheel drive (FWD),Automatic,84555,Available,other_GTA,4,4,27995.0
+german,White,Used,Sedan,Unknown,Automatic,69084,None,Toronto,4,6,13488.0
+german,Red,Used,Sedan,All-wheel drive (AWD),Automatic,72598,Available,Toronto,4,6,17999.0
+japanese,Black,Used,Sedan,Front-wheel drive (FWD),Automatic,73900,Available,other_GTA,4,5,12495.0
+german,Black,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,128659,Available,other_GTA,4,8,12850.0
+japanese,Silver,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,181000,Available,Toronto,6,8,8995.0
+american,Blue,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,19650,Available,other,4,2,31992.0
+german,Red,Used,Sedan,Front-wheel drive (FWD),Automatic,65681,Available,Toronto,4,5,12990.0
+german,Black,Used,Sedan,All-wheel drive (AWD),Automatic,76506,Available,Toronto,4,5,24988.0
+american,White,Used,"SUV, Crossover",Front-wheel drive (FWD),Automatic,141000,Available,Toronto,4,7,11900.0
+american,White,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,125000,Available,Toronto,4,5,14950.0
+japanese,Grey,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,70713,Available,other,6,4,38652.0
+japanese,other,Used,Coupe (2 door),Front-wheel drive (FWD),Automatic,1000,Available,other,4,11,150.0
+japanese,White,Used,Sedan,Front-wheel drive (FWD),Automatic,99000,Available,Toronto,4,5,15450.0
+japanese,Silver,Used,Sedan,Front-wheel drive (FWD),Automatic,89628,Available,other_GTA,4,4,13495.0
+german,White,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,123000,Available,Toronto,4,9,10950.0
+german,Black,Used,Sedan,All-wheel drive (AWD),Automatic,79128,Available,Toronto,4,6,18999.0
+german,Silver,Used,Hatchback,Front-wheel drive (FWD),Automatic,69000,Available,Toronto,4,7,10995.0
+japanese,Black,Used,"SUV, Crossover",Front-wheel drive (FWD),Automatic,115000,Available,Toronto,4,7,9900.0
+korean,Blue,Used,"Minivan, Van",Front-wheel drive (FWD),Automatic,190000,Available,Toronto,6,13,5995.0
+german,White,Used,Sedan,All-wheel drive (AWD),Automatic,125992,Available,other,4,5,24977.0
+german,Silver,Used,Sedan,All-wheel drive (AWD),Automatic,99000,Available,Toronto,6,8,16950.0
+japanese,other,Used,"Minivan, Van",Front-wheel drive (FWD),Automatic,191488,Available,Toronto,6,13,5495.0
+japanese,Silver,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,52766,Available,other,4,4,17595.0
+german,White,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,52900,None,Toronto,4,5,18600.0
+german,Red,Used,Sedan,Front-wheel drive (FWD),Manual,98000,Available,other_GTA,4,7,12800.0
+american,Blue,New,Pickup Truck,4 x 4,Automatic,50,New_Car,Toronto,6,2,42488.0
+japanese,Grey,Used,Sedan,Front-wheel drive (FWD),Manual,57360,Available,Toronto,4,5,18419.0
+american,White,Used,"SUV, Crossover",4 x 4,Automatic,170350,Available,other_GTA,8,4,26900.0
+german,Black,Used,Sedan,Front-wheel drive (FWD),Automatic,101000,Available,Toronto,4,5,15450.0
+american,Grey,Used,"SUV, Crossover",4 x 4,Automatic,26625,Available,other_GTA,4,3,26995.0
+japanese,Silver,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,174000,Available,Toronto,6,11,9995.0
+japanese,Silver,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,125900,Available,Toronto,6,10,10900.0
+american,White,Used,Pickup Truck,Rear-wheel drive (RWD),Automatic,84000,None,Toronto,8,16,5995.0
+japanese,Grey,Used,"Minivan, Van",Unknown,Automatic,214000,None,Toronto,6,16,3650.0
+german,Black,Used,Sedan,Front-wheel drive (FWD),Automatic,288000,None,Toronto,5,11,5300.0
+german,Grey,Used,Sedan,Front-wheel drive (FWD),Automatic,61918,Available,Toronto,4,5,13990.0
+japanese,Black,Used,"SUV, Crossover",Front-wheel drive (FWD),Automatic,75065,Available,other_GTA,4,5,17900.0
+japanese,Blue,Used,Wagon,All-wheel drive (AWD),Automatic,70908,Available,Toronto,6,5,29800.0
+american,White,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,116000,Available,Toronto,6,4,22950.0
+american,White,Used,"SUV, Crossover",4 x 4,Automatic,4447,Available,Toronto,6,2,55026.0
+american,Red,Used,"Minivan, Van",Rear-wheel drive (RWD),Automatic,113000,None,Toronto,8,10,12995.0
+german,Black,Used,Sedan,Rear-wheel drive (RWD),Automatic,200000,None,Toronto,8,25,500.0
+japanese,Blue,Used,Sedan,Front-wheel drive (FWD),Automatic,183468,Available,Toronto,4,7,8500.0
+german,other,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,58583,Available,Toronto,4,4,32113.0
+german,other,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,133526,Available,Toronto,8,11,16995.0
+american,White,Used,Pickup Truck,4 x 4,Automatic,122000,Available,other_GTA,8,5,22800.0
+german,Grey,Used,Sedan,All-wheel drive (AWD),Automatic,174700,Available,Toronto,6,9,9979.0
+german,White,Used,Sedan,All-wheel drive (AWD),Automatic,10430,Available,Toronto,6,3,45999.0
+american,White,Used,"SUV, Crossover",4 x 4,Automatic,10,Available,Toronto,6,1,48952.0
+german,Grey,Used,Sedan,Front-wheel drive (FWD),Automatic,81840,None,Toronto,4,5,14800.0
+british,White,Used,"SUV, Crossover",4 x 4,Automatic,116000,Available,other_GTA,6,9,27000.0
+korean,other,New,"SUV, Crossover",All-wheel drive (AWD),Automatic,50,New_Car,other_GTA,4,1,34685.0
+japanese,Silver,Used,"Minivan, Van",Front-wheel drive (FWD),Automatic,113315,Available,Toronto,6,8,16800.0
+german,White,Used,Coupe (2 door),Unknown,Manual,160000,None,Toronto,6,9,12500.0
+japanese,Grey,Used,Hatchback,Front-wheel drive (FWD),Automatic,62302,Available,Toronto,4,6,12995.0
+german,Black,Used,Sedan,Front-wheel drive (FWD),Automatic,54278,Available,Toronto,4,5,14250.0
+german,Black,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,67082,Available,Toronto,6,8,45800.0
+german,White,Used,Hatchback,Front-wheel drive (FWD),Automatic,122504,Available,Toronto,6,12,6797.0
+american,Blue,Used,"Minivan, Van",Rear-wheel drive (RWD),Automatic,24000,None,Toronto,8,8,19995.0
+german,White,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,98000,None,Toronto,6,6,43988.0
+american,Black,Used,"SUV, Crossover",Front-wheel drive (FWD),Automatic,132761,Available,Toronto,6,6,16980.0
+japanese,Grey,Used,Sedan,Front-wheel drive (FWD),Automatic,88000,Available,Toronto,4,5,16450.0
+american,Black,Used,Sedan,Rear-wheel drive (RWD),Manual,12800,Available,other_GTA,8,13,25000.0
+american,Blue,Used,Coupe (2 door),Rear-wheel drive (RWD),Manual,35709,Available,other,8,16,28377.0
+american,Black,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,63151,Available,Toronto,4,3,23908.0
+american,other,Used,"Minivan, Van",Rear-wheel drive (RWD),Automatic,44960,Available,Toronto,8,3,25988.0
+japanese,Grey,Used,Sedan,Front-wheel drive (FWD),Automatic,137000,Available,Toronto,4,5,14850.0
+japanese,Black,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,131000,Available,Toronto,4,3,17950.0
+american,Black,Used,Sedan,Front-wheel drive (FWD),Automatic,51577,Available,other,6,6,20490.0
+german,Blue,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,149000,Available,other_GTA,6,7,23998.0
+british,White,Used,"SUV, Crossover",4 x 4,Automatic,109000,Available,Toronto,8,6,45888.0
+american,White,Used,"Minivan, Van",Rear-wheel drive (RWD),Automatic,158973,None,other,6,5,23990.0
+korean,Grey,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,119000,Available,Toronto,4,7,13450.0
+japanese,Grey,Used,Sedan,Front-wheel drive (FWD),Manual,66785,Available,Toronto,4,5,10500.0
+japanese,Grey,Used,Pickup Truck,4 x 4,Automatic,22850,Available,other,6,2,30990.0
+japanese,Black,Used,Sedan,Front-wheel drive (FWD),Manual,74741,Available,Toronto,4,5,10500.0
+american,White,Used,Sedan,Front-wheel drive (FWD),Automatic,72601,Available,Toronto,6,7,8495.0
+german,Silver,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,89000,None,Toronto,4,6,21850.0
+korean,Blue,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,108925,Available,Toronto,4,3,23980.0
+german,White,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,160000,Available,Toronto,6,6,20950.0
+american,Red,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,3214,None,other_GTA,6,2,96888.0
+japanese,Black,Used,Sedan,Front-wheel drive (FWD),Automatic,123870,Available,Toronto,4,6,13999.0
+american,White,Used,"Minivan, Van",Rear-wheel drive (RWD),Automatic,129000,None,Toronto,8,8,14495.0
+japanese,other,New,"SUV, Crossover",Front-wheel drive (FWD),Automatic,50,New_Car,other,4,1,25886.0
+german,Red,Used,Coupe (2 door),Front-wheel drive (FWD),Automatic,37000,Available,Toronto,4,8,12800.0
+american,Black,Used,Sedan,All-wheel drive (AWD),Automatic,44895,Available,Toronto,6,4,24488.0
+american,Blue,Used,"Minivan, Van",Front-wheel drive (FWD),Automatic,185000,Available,Toronto,6,14,2900.0
+german,other,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,135000,Available,Toronto,6,7,17850.0
+korean,other,New,Sedan,Front-wheel drive (FWD),Automatic,50,New_Car,other,4,1,31528.0
+american,Black,Used,"Minivan, Van",Front-wheel drive (FWD),Automatic,183000,None,Toronto,6,8,10995.0
+american,Blue,Used,Sedan,Front-wheel drive (FWD),Automatic,17489,Available,Toronto,4,5,13999.0
+german,Grey,Used,Sedan,All-wheel drive (AWD),Automatic,115248,Available,Toronto,4,6,17999.0
+korean,Silver,Used,"SUV, Crossover",Unknown,Automatic,122834,Available,other,4,6,14995.0
+german,Grey,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,138000,Available,Toronto,4,5,18450.0
+american,Black,Used,"Minivan, Van",Front-wheel drive (FWD),Automatic,139727,Available,Toronto,6,8,13342.0
+german,other,Used,Sedan,Front-wheel drive (FWD),Automatic,84461,Available,Toronto,4,5,14990.0
+german,White,Used,Wagon,All-wheel drive (AWD),Automatic,110088,Available,Toronto,4,8,15888.0
+british,Black,Used,"SUV, Crossover",Unknown,Automatic,116000,Available,Toronto,8,6,59888.0
+japanese,Red,Used,Wagon,Unknown,Automatic,180018,Available,Toronto,4,10,6588.0
+german,Black,Used,Sedan,All-wheel drive (AWD),Automatic,72000,Available,Toronto,4,3,26999.0
+korean,Grey,Used,Sedan,Unknown,Automatic,108153,Available,other_GTA,4,6,12131.0
+japanese,other,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,86000,Available,other_GTA,6,5,30000.0
+japanese,Silver,Used,Sedan,Front-wheel drive (FWD),Automatic,180370,Available,Toronto,4,10,5488.0
+japanese,other,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,134000,None,Toronto,6,11,9500.0
+japanese,other,Used,"SUV, Crossover",Unknown,Automatic,156000,None,Toronto,4,7,6500.0
+german,Black,Used,Sedan,All-wheel drive (AWD),Automatic,97018,Available,Toronto,8,8,25888.0
+german,White,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,133438,Available,Toronto,4,5,12750.0
+japanese,Grey,Used,"SUV, Crossover",4 x 4,Automatic,180,None,Toronto,8,10,22000.0
+korean,other,Used,Sedan,Front-wheel drive (FWD),Automatic,39403,Available,Toronto,4,4,16800.0
+german,White,Used,Coupe (2 door),All-wheel drive (AWD),Manual,98611,Available,Toronto,6,7,28800.0
+german,Black,Used,Sedan,Unknown,Automatic,122666,None,Toronto,4,8,12888.0
+japanese,White,Used,Sedan,Front-wheel drive (FWD),Automatic,32183,Available,Toronto,4,3,18331.0
+japanese,White,Used,Sedan,Front-wheel drive (FWD),Automatic,14000,Available,Toronto,4,2,16988.0
+german,Black,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,208702,Available,Toronto,6,12,10500.0
+german,White,Used,Sedan,4 x 4,Automatic,125000,None,Toronto,4,6,7500.0
+japanese,Silver,Used,Sedan,Front-wheel drive (FWD),Automatic,181721,Available,Toronto,4,18,1489.0
+korean,White,Used,Sedan,All-wheel drive (AWD),Automatic,14708,Available,Toronto,4,2,49900.0
+american,Grey,Used,Sedan,All-wheel drive (AWD),Automatic,270000,Available,Toronto,4,8,3999.0
+american,White,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,248500,None,Toronto,6,20,2500.0
+american,Black,Used,"SUV, Crossover",4 x 4,Automatic,47488,Available,other,8,2,58898.0
+german,Black,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,96010,Available,Toronto,8,7,41800.0
+german,Grey,Used,Sedan,Rear-wheel drive (RWD),Automatic,385,None,Toronto,6,14,1300.0
+american,Black,Used,Pickup Truck,4 x 4,Automatic,199580,Available,Toronto,8,14,2500.0
+korean,other,Used,Hatchback,Unknown,Automatic,4000,None,Toronto,4,3,12000.0
+japanese,Red,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,87000,Available,Toronto,4,6,14999.0
+british,Black,Used,Sedan,All-wheel drive (AWD),Automatic,21535,Available,other,6,4,79988.0
+american,other,Used,Sedan,Unknown,Manual,69743,Available,other,8,51,119988.0
+german,Black,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,68827,Available,Toronto,4,5,28888.0
+american,Black,Used,"SUV, Crossover",Unknown,Automatic,220345,Available,Toronto,6,13,2995.0
+british,Black,Used,Sedan,Rear-wheel drive (RWD),Automatic,109939,Available,Toronto,8,8,18980.0
+japanese,White,Used,Sedan,All-wheel drive (AWD),Automatic,95379,None,Toronto,6,6,23995.0
+american,Black,Used,Sedan,All-wheel drive (AWD),Automatic,4,Available,Toronto,6,2,49990.0
+japanese,Black,Used,Sedan,Front-wheel drive (FWD),Automatic,197051,Available,Toronto,4,13,3495.0
+american,other,Used,Other,All-wheel drive (AWD),Automatic,66938,Available,Toronto,6,4,33988.0
+japanese,Silver,Used,Sedan,Front-wheel drive (FWD),Automatic,139924,Available,Toronto,4,12,7995.0
+german,White,Used,Sedan,Rear-wheel drive (RWD),Automatic,108000,Available,Toronto,8,10,31999.0
+american,Black,Used,Pickup Truck,4 x 4,Automatic,4,Available,Toronto,8,2,63990.0
+japanese,Silver,Used,Sedan,Front-wheel drive (FWD),Automatic,64000,Available,Toronto,4,3,16450.0
+american,Silver,Used,Sedan,Unknown,Automatic,126895,None,Toronto,6,7,12988.0
+german,White,Used,Hatchback,Front-wheel drive (FWD),Manual,122552,Available,Toronto,4,7,9495.0
+american,Black,Used,"Minivan, Van",Front-wheel drive (FWD),Automatic,25094,Available,other,6,3,25495.0
+german,Black,Used,Sedan,Front-wheel drive (FWD),Manual,76108,Available,Toronto,4,5,8990.0
+american,Black,Used,Sedan,Unknown,Automatic,69817,Available,Toronto,4,4,15988.0
+japanese,White,Used,Sedan,Unknown,Automatic,78280,Available,Toronto,4,5,14988.0
+american,Grey,Used,Pickup Truck,4 x 4,Automatic,67315,Available,other,8,4,35995.0
+american,Blue,Used,"SUV, Crossover",Unknown,Automatic,66861,Available,Toronto,4,5,17988.0
+japanese,Silver,Used,Sedan,Unknown,Automatic,35979,None,Toronto,4,7,9888.0
+japanese,Black,Used,Sedan,Front-wheel drive (FWD),Automatic,98148,Available,Toronto,4,5,18500.0
+japanese,Silver,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,99000,Available,Toronto,6,6,21450.0
+japanese,Black,Used,Sedan,Front-wheel drive (FWD),Automatic,106740,Available,Toronto,4,10,5998.0
+american,Black,New,"SUV, Crossover",Front-wheel drive (FWD),Automatic,50,New_Car,Toronto,4,2,22998.0
+american,White,Used,"SUV, Crossover",Unknown,Automatic,80127,Available,other,6,4,34900.0
+american,Black,Used,Hatchback,Front-wheel drive (FWD),Automatic,35049,Available,other_GTA,4,5,13388.0
+american,White,Used,"Minivan, Van",Front-wheel drive (FWD),Automatic,109000,Available,Toronto,6,4,15450.0
+american,Black,Used,Sedan,Front-wheel drive (FWD),Automatic,62576,None,Toronto,4,4,14600.0
+japanese,Black,Used,Sedan,Front-wheel drive (FWD),Automatic,73738,Available,Toronto,4,5,14990.0
+japanese,White,Used,Sedan,Front-wheel drive (FWD),Automatic,78259,Available,Toronto,4,5,14250.0
+korean,Blue,Used,Sedan,Front-wheel drive (FWD),Automatic,118852,Available,Toronto,4,7,8990.0
+japanese,Black,Used,Sedan,Front-wheel drive (FWD),Automatic,88998,Available,Toronto,4,6,17250.0
+japanese,White,Used,Sedan,Front-wheel drive (FWD),Automatic,63528,Available,Toronto,4,5,13750.0
+japanese,Silver,Used,Sedan,Front-wheel drive (FWD),Automatic,33128,Available,Toronto,4,5,13750.0
+japanese,Black,Used,Sedan,Front-wheel drive (FWD),Automatic,95088,Available,Toronto,4,6,15500.0
+japanese,Black,Used,Sedan,Front-wheel drive (FWD),Manual,158288,Available,Toronto,4,6,13500.0
+german,White,Used,Sedan,Rear-wheel drive (RWD),Automatic,100766,Available,Toronto,8,7,39800.0
+american,White,Used,"SUV, Crossover",4 x 4,Automatic,14875,Available,Toronto,6,2,38800.0
+german,other,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,67991,Available,Toronto,4,5,17990.0
+german,Blue,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,96295,Available,Toronto,4,4,27990.0
+german,Black,Used,Sedan,Front-wheel drive (FWD),Manual,79996,Available,Toronto,4,5,15990.0
+german,Black,Used,Sedan,Front-wheel drive (FWD),Automatic,60998,Available,Toronto,4,5,14750.0
+german,Black,Used,Sedan,Front-wheel drive (FWD),Automatic,91138,Available,Toronto,4,5,12990.0
+german,Black,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,110808,Available,Toronto,4,5,15990.0
+japanese,White,Used,Sedan,Front-wheel drive (FWD),Automatic,88148,Available,Toronto,4,6,11990.0
+japanese,Black,Used,Sedan,Front-wheel drive (FWD),Automatic,93588,Available,Toronto,4,5,15500.0
+german,Silver,Used,Sedan,Rear-wheel drive (RWD),Automatic,87198,Available,Toronto,6,9,9990.0
+japanese,White,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,95228,Available,Toronto,6,5,27990.0
+german,Black,Used,Sedan,Rear-wheel drive (RWD),Automatic,32274,Available,other,6,4,68995.0
+korean,Silver,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,176000,Available,Toronto,4,10,9600.0
+german,White,Used,Sedan,Front-wheel drive (FWD),Automatic,109998,Available,Toronto,4,5,14500.0
+german,White,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,98318,Available,Toronto,4,5,13990.0
+japanese,other,Used,Sedan,Front-wheel drive (FWD),Automatic,128069,Available,Toronto,4,5,12990.0
+japanese,Black,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,154239,Available,Toronto,6,5,23990.0
+german,White,Used,Sedan,Front-wheel drive (FWD),Automatic,43528,Available,Toronto,4,5,17750.0
+german,Grey,Used,Sedan,Front-wheel drive (FWD),Manual,59962,Available,Toronto,4,5,12500.0
+korean,Black,Used,Sedan,Front-wheel drive (FWD),Automatic,105000,None,Toronto,4,5,12950.0
+american,other,Used,Sedan,All-wheel drive (AWD),Automatic,185017,Available,Toronto,4,17,2500.0
+japanese,Black,Used,"Minivan, Van",Front-wheel drive (FWD),Automatic,189000,Available,Toronto,6,9,8900.0
+american,Grey,New,Pickup Truck,4 x 4,Automatic,50,New_Car,Toronto,6,1,46299.0
+japanese,White,Used,Wagon,All-wheel drive (AWD),Manual,227845,None,Toronto,4,14,2950.0
+german,Silver,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,134608,Available,Toronto,6,5,29800.0
+korean,Grey,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,84000,Available,Toronto,4,6,16600.0
+american,other,Used,"SUV, Crossover",Unknown,Automatic,150702,None,Toronto,4,7,9988.0
+korean,Grey,Used,Sedan,Front-wheel drive (FWD),Automatic,53401,Available,Toronto,4,4,14595.0
+korean,White,Used,Sedan,Unknown,Automatic,74316,None,Toronto,4,3,12888.0
+japanese,other,New,Sedan,All-wheel drive (AWD),Automatic,50,New_Car,other,4,1,37486.0
+american,other,Used,Pickup Truck,Unknown,Automatic,290400,None,Toronto,8,15,2000.0
+japanese,Black,Used,Sedan,Front-wheel drive (FWD),Automatic,98000,Available,Toronto,4,5,11950.0
+german,White,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,61027,Available,other_GTA,6,5,25999.0
+american,other,Used,"Minivan, Van",Unknown,Automatic,456000,None,Toronto,6,19,500.0
+japanese,Grey,Used,Sedan,Unknown,Automatic,150,None,Toronto,4,11,4899.0
+japanese,other,Used,Sedan,Front-wheel drive (FWD),Automatic,294500,None,Toronto,6,16,1600.0
+american,Black,Used,Pickup Truck,4 x 4,Automatic,141363,Available,other,6,5,20981.0
+american,Black,New,"SUV, Crossover",Front-wheel drive (FWD),Automatic,50,New_Car,Toronto,4,1,38499.0
+german,Grey,Used,Sedan,All-wheel drive (AWD),Automatic,81980,None,Toronto,4,5,25900.0
+american,Silver,Used,Sedan,Front-wheel drive (FWD),Automatic,185492,Available,Toronto,6,14,1495.0
+japanese,Blue,Used,Hatchback,Front-wheel drive (FWD),Automatic,15325,Available,Toronto,4,2,17995.0
+japanese,other,Used,"SUV, Crossover",Unknown,Automatic,98546,Available,other_GTA,6,5,30900.0
+japanese,White,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,116000,Available,Toronto,6,3,26450.0
+german,Silver,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,151450,Available,Toronto,6,11,13997.0
+german,White,Used,Sedan,Front-wheel drive (FWD),Automatic,52578,Available,Toronto,4,5,14990.0
+korean,Grey,New,"SUV, Crossover",All-wheel drive (AWD),Automatic,50,New_Car,other_GTA,4,1,36535.0
+german,Black,Used,Sedan,All-wheel drive (AWD),Automatic,89996,Available,Toronto,4,6,19999.0
+american,Black,Used,"SUV, Crossover",4 x 4,Automatic,28309,Available,Toronto,4,3,28397.0
+korean,Grey,Used,Sedan,Front-wheel drive (FWD),Automatic,99000,Available,Toronto,4,7,10700.0
+korean,other,New,"SUV, Crossover",All-wheel drive (AWD),Automatic,50,New_Car,other_GTA,4,1,36685.0
+japanese,White,Used,"SUV, Crossover",Front-wheel drive (FWD),Automatic,26888,Available,other_GTA,4,4,24995.0
+japanese,other,Used,Sedan,Unknown,Automatic,496000,None,Toronto,6,18,400.0
+american,Grey,Used,"SUV, Crossover",4 x 4,Automatic,33481,Available,Toronto,6,4,25887.0
+american,Black,Used,Sedan,Unknown,Automatic,69000,None,Toronto,4,6,18000.0
+japanese,Grey,Used,"SUV, Crossover",Unknown,Automatic,90406,Available,other,6,6,25900.0
+japanese,Black,Used,Sedan,Front-wheel drive (FWD),Automatic,94098,None,Toronto,4,8,5999.0
+japanese,Silver,Used,Sedan,Front-wheel drive (FWD),Automatic,213000,None,Toronto,4,13,1600.0
+american,White,Used,"SUV, Crossover",4 x 4,Automatic,74922,Available,Toronto,6,3,29180.0
+german,Black,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,97011,Available,Toronto,6,6,29800.0
+german,Black,Used,Sedan,All-wheel drive (AWD),Automatic,136185,Available,Toronto,8,7,23980.0
+german,Blue,Used,Sedan,All-wheel drive (AWD),Automatic,90448,Available,Toronto,4,6,19999.0
+japanese,White,Used,"SUV, Crossover",Unknown,Automatic,104000,Available,Toronto,6,6,18950.0
+japanese,Black,Used,Sedan,Unknown,Automatic,89139,None,Toronto,4,8,16250.0
+korean,Black,Used,"SUV, Crossover",Unknown,Automatic,138222,None,Toronto,4,8,10450.0
+american,other,New,Other,All-wheel drive (AWD),Automatic,50,New_Car,Toronto,6,1,51502.0
+japanese,Black,Used,Sedan,All-wheel drive (AWD),Automatic,138000,None,Toronto,4,10,7500.0
+italian,Black,Used,Coupe (2 door),Rear-wheel drive (RWD),Automatic,63030,Available,Toronto,4,10,49800.0
+japanese,other,Used,"SUV, Crossover",4 x 4,Automatic,153000,None,Toronto,6,9,16980.0
+american,Red,Used,Coupe (2 door),Rear-wheel drive (RWD),Manual,18905,Available,Toronto,8,3,34500.0
+korean,Silver,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,66750,Available,Toronto,4,5,19295.0
+american,other,Used,Other,Unknown,Automatic,250000,None,Toronto,6,14,2500.0
+japanese,Blue,Used,Sedan,Front-wheel drive (FWD),Automatic,94000,Available,Toronto,4,5,12999.0
+american,Red,Used,"SUV, Crossover",4 x 4,Automatic,14681,Available,Toronto,6,2,53288.0
+german,White,Used,Sedan,All-wheel drive (AWD),Automatic,73980,None,Toronto,6,5,32800.0
+american,Black,Used,"SUV, Crossover",Front-wheel drive (FWD),Automatic,135552,Available,Toronto,6,6,12999.0
+german,White,Used,Convertible,Rear-wheel drive (RWD),Automatic,65273,Available,Toronto,6,6,45800.0
+italian,other,Used,Hatchback,Front-wheel drive (FWD),Manual,76906,Available,Toronto,4,6,12800.0
+british,other,Used,"SUV, Crossover",4 x 4,Automatic,138889,Available,Toronto,6,7,49800.0
+japanese,Grey,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,55257,Available,Toronto,6,4,45800.0
+korean,White,Used,Sedan,Front-wheel drive (FWD),Automatic,115000,Available,Toronto,4,11,3999.0
+american,Black,Used,Pickup Truck,4 x 4,Automatic,314000,Available,Toronto,8,10,3700.0
+american,Black,New,Wagon,Front-wheel drive (FWD),Automatic,50,New_Car,Toronto,6,1,38645.0
+american,Red,New,"SUV, Crossover",All-wheel drive (AWD),Manual,50,New_Car,other,6,1,64010.0
+japanese,Silver,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,161000,None,Toronto,6,16,2999.0
+japanese,Grey,Used,Sedan,Unknown,Manual,32372,Available,Toronto,4,3,28495.0
+american,other,Used,Sedan,Front-wheel drive (FWD),Automatic,174000,None,Toronto,4,14,1999.0
+german,Red,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,277000,None,Toronto,6,16,3900.0
+german,Black,Used,Coupe (2 door),All-wheel drive (AWD),Automatic,136200,Available,Toronto,6,7,35800.0
+german,Grey,Used,Hatchback,All-wheel drive (AWD),Automatic,95501,Available,Toronto,8,8,39800.0
+italian,Silver,Used,Convertible,Rear-wheel drive (RWD),Automatic,32800,Available,Toronto,4,15,29800.0
+american,Grey,Used,Sedan,Front-wheel drive (FWD),Automatic,56000,Available,Toronto,4,5,14888.0
+american,White,Lease Takeover,Hatchback,Front-wheel drive (FWD),Automatic,20800,None,Toronto,4,0,298.0
+american,Black,New,Wagon,All-wheel drive (AWD),Automatic,50,New_Car,Toronto,4,1,39160.0
+american,White,New,Wagon,Front-wheel drive (FWD),Automatic,50,New_Car,Toronto,6,1,43050.0
+japanese,Blue,Used,Sedan,Front-wheel drive (FWD),Automatic,172485,Available,Toronto,4,14,3475.0
+american,White,New,"SUV, Crossover",4 x 4,Automatic,50,New_Car,other,6,1,40914.0
+japanese,Black,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,142000,Available,Toronto,4,5,15950.0
+korean,Red,Used,"SUV, Crossover",Unknown,Automatic,49402,Available,other,4,2,17495.0
+japanese,Silver,Used,"SUV, Crossover",Unknown,Automatic,44660,Available,other,6,4,33182.0
+british,White,Used,Sedan,All-wheel drive (AWD),Automatic,48784,Available,other,6,3,87990.0
+american,Blue,Used,"Minivan, Van",Front-wheel drive (FWD),Automatic,150000,None,Toronto,6,12,3899.0
+german,Black,Used,Sedan,Front-wheel drive (FWD),Automatic,49353,Available,Toronto,4,5,13990.0
+american,Black,New,Wagon,All-wheel drive (AWD),Automatic,50,New_Car,Toronto,4,1,39160.0
+american,White,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,51092,Available,Toronto,4,4,36988.0
+korean,Black,Used,Sedan,Front-wheel drive (FWD),Automatic,194526,Available,Toronto,4,9,9995.0
+german,other,Used,Sedan,All-wheel drive (AWD),Automatic,93000,Available,Toronto,4,5,24880.0
+american,Red,Used,"SUV, Crossover",Front-wheel drive (FWD),Automatic,121219,Available,Toronto,8,8,10290.0
+german,Black,Used,Hatchback,All-wheel drive (AWD),Automatic,35647,Available,Toronto,3,3,36590.0
+japanese,White,Used,Sedan,All-wheel drive (AWD),Automatic,49082,Available,Toronto,4,3,25990.0
+japanese,Red,Used,Sedan,Front-wheel drive (FWD),Automatic,7617,Available,Toronto,6,2,40990.0
+other,Red,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,28286,Available,Toronto,6,4,46990.0
+american,Black,Used,"SUV, Crossover",4 x 4,Automatic,5563,Available,Toronto,6,2,43990.0
+japanese,Blue,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,7742,Available,Toronto,4,2,44490.0
+japanese,Blue,Used,Hatchback,Front-wheel drive (FWD),Manual,63268,Available,Toronto,4,4,26990.0
+japanese,Black,Used,Coupe (2 door),Front-wheel drive (FWD),Automatic,51885,Available,Toronto,4,5,23790.0
+japanese,White,Used,Hatchback,All-wheel drive (AWD),Automatic,49348,Available,Toronto,4,2,28490.0
+other,Black,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,68747,Available,Toronto,6,4,46490.0
+japanese,Black,Used,Sedan,Front-wheel drive (FWD),Automatic,92257,Available,Toronto,4,5,24990.0
+japanese,Grey,Used,Sedan,Front-wheel drive (FWD),Automatic,87682,Available,Toronto,4,4,32980.0
+other,Grey,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,149998,Available,Toronto,6,6,30880.0
+german,White,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,89998,Available,Toronto,4,4,41880.0
+german,Black,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,144809,Available,Toronto,6,8,27998.0
+german,Black,Used,Hatchback,Unknown,Automatic,64495,Available,other,4,3,43649.0
+german,Blue,Used,Coupe (2 door),Rear-wheel drive (RWD),Automatic,39393,Available,Toronto,6,4,81800.0
+american,Black,Used,"SUV, Crossover",4 x 4,Automatic,27870,Available,other,6,4,37998.0
+japanese,White,Used,Sedan,Front-wheel drive (FWD),Automatic,31736,Available,Toronto,4,2,39900.0
+german,Black,Used,Sedan,Front-wheel drive (FWD),Automatic,60248,Available,other_GTA,8,8,22990.0
+german,White,Used,Sedan,All-wheel drive (AWD),Automatic,60338,Available,Toronto,4,4,37987.0
+american,Black,Used,"SUV, Crossover",4 x 4,Automatic,67933,Available,Toronto,6,6,25800.0
+american,other,New,"SUV, Crossover",Front-wheel drive (FWD),Automatic,50,New_Car,Toronto,4,0,31335.0
+japanese,Grey,Used,"SUV, Crossover",4 x 4,Automatic,78514,Available,other_GTA,6,4,44988.0
+american,Black,Used,Other,4 x 4,Automatic,72845,Available,other,8,4,35900.0
+japanese,Grey,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,53792,Available,other,6,3,42750.0
+japanese,Grey,Used,Hatchback,Front-wheel drive (FWD),Automatic,32980,Available,Toronto,8,3,25990.0
+german,Blue,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,20255,Available,Toronto,6,3,66800.0
+german,Blue,Used,Sedan,Unknown,Automatic,17998,Available,Toronto,4,2,51900.0
+german,White,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,51676,Available,other,6,3,43995.0
+american,White,Used,"Minivan, Van",Rear-wheel drive (RWD),Automatic,188000,Available,Toronto,8,8,24488.0
+german,White,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,97635,Available,Toronto,6,7,49800.0
+american,Grey,Used,Sedan,Front-wheel drive (FWD),Automatic,102480,Available,Toronto,4,6,11995.0
+american,Grey,Used,Sedan,Rear-wheel drive (RWD),Electric,6519,Available,other_GTA,0,1,63990.0
+japanese,White,Used,Other,Front-wheel drive (FWD),Automatic,89285,Available,Toronto,6,4,39990.0
+american,Red,Used,Pickup Truck,Unknown,Automatic,66961,Available,Toronto,6,4,48888.0
+german,Silver,Used,Sedan,All-wheel drive (AWD),Automatic,87927,Available,Toronto,6,7,16750.0
+american,other,Used,Pickup Truck,Unknown,Automatic,152000,Available,Toronto,8,36,9000.0
+american,Red,Used,"SUV, Crossover",4 x 4,Automatic,97817,Available,other,4,6,19566.0
+american,Grey,Used,Sedan,Unknown,Electric,98047,Available,Toronto,0,6,67995.0
+american,Blue,Used,Pickup Truck,4 x 4,Automatic,27518,Available,Toronto,8,3,60487.0
+german,White,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,18663,Available,Toronto,4,1,59900.0
+german,Blue,Used,Coupe (2 door),All-wheel drive (AWD),Automatic,122100,Available,other,4,9,18995.0
+american,White,Used,Sedan,Rear-wheel drive (RWD),Electric,20834,Available,Toronto,0,1,61990.0
+korean,Silver,Used,"SUV, Crossover",Unknown,Automatic,24458,Available,Toronto,4,3,32998.0
+japanese,Grey,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,99238,Available,Toronto,4,7,18490.0
+japanese,Grey,Used,Sedan,Front-wheel drive (FWD),Automatic,102871,Available,Toronto,4,3,20889.0
+german,White,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,24968,Available,Toronto,8,4,46500.0
+japanese,White,Used,Other,Front-wheel drive (FWD),Automatic,72219,Available,Toronto,4,4,24888.0
+korean,Grey,Used,Sedan,Unknown,Automatic,3925,Available,Toronto,4,2,34998.0
+korean,Grey,Used,Sedan,Unknown,Automatic,3962,Available,Toronto,4,2,34998.0
+german,Black,Used,Sedan,Rear-wheel drive (RWD),Automatic,114071,Available,Toronto,4,7,48998.0
+american,White,Used,"Minivan, Van",Rear-wheel drive (RWD),Automatic,261000,Available,Toronto,8,10,21888.0
+american,Blue,Used,Pickup Truck,4 x 4,Automatic,215000,Available,Toronto,8,12,15500.0
+american,Silver,Used,"Minivan, Van",Front-wheel drive (FWD),Automatic,63000,Available,Toronto,6,8,13900.0
+japanese,Blue,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,260000,Available,Toronto,6,13,9950.0
+italian,Grey,Used,Sedan,All-wheel drive (AWD),Automatic,51190,Available,Toronto,4,6,50995.0
+american,White,New,"SUV, Crossover",Unknown,Automatic,50,New_Car,other,4,0,35268.0
+korean,other,Used,Sedan,Front-wheel drive (FWD),Automatic,58261,Available,other_GTA,4,2,25275.0
+german,Black,Used,Sedan,All-wheel drive (AWD),Automatic,61060,Available,Toronto,6,4,44800.0
+japanese,Silver,Used,Sedan,Front-wheel drive (FWD),Automatic,82798,Available,Toronto,4,2,21990.0
+american,Blue,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,50070,Available,other_GTA,6,5,35590.0
+german,Silver,Used,Sedan,All-wheel drive (AWD),Automatic,108224,Available,Toronto,8,8,48995.0
+american,other,Used,Pickup Truck,Rear-wheel drive (RWD),Automatic,149000,Available,Toronto,8,6,58777.0
+korean,Blue,Used,Hatchback,Unknown,Automatic,76000,Available,Toronto,4,7,13000.0
+american,White,Used,"SUV, Crossover",Front-wheel drive (FWD),Automatic,47885,Available,Toronto,4,5,24000.0
+american,Blue,Used,Other,Unknown,Automatic,117442,Available,other,6,3,40898.0
+american,White,Used,"Minivan, Van",Rear-wheel drive (RWD),Automatic,147000,Available,Toronto,8,5,48888.0
+american,other,Used,"SUV, Crossover",4 x 4,Automatic,62459,Available,Toronto,6,3,47490.0
+american,other,Used,Coupe (2 door),Rear-wheel drive (RWD),Automatic,24351,Available,Toronto,8,7,75800.0
+korean,Black,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,25695,Available,other_GTA,4,1,31590.0
+german,Black,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,16878,Available,Toronto,6,4,59890.0
+american,Blue,Used,"SUV, Crossover",4 x 4,Manual,61732,Available,Toronto,4,6,17990.0
+japanese,White,Used,"SUV, Crossover",4 x 4,Automatic,26285,Available,other_GTA,6,2,58088.0
+japanese,Black,Used,Sedan,All-wheel drive (AWD),Automatic,71361,Available,Toronto,6,3,37490.0
+german,Grey,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,43313,Available,Toronto,6,2,79995.0
+german,other,Used,Sedan,All-wheel drive (AWD),Automatic,115897,Available,other,4,4,29384.0
+american,other,Used,Other,Rear-wheel drive (RWD),Automatic,162482,Available,Toronto,8,10,16979.0
+american,other,Used,Pickup Truck,Unknown,Automatic,230000,Available,Toronto,8,7,17999.0
+american,Black,Used,"SUV, Crossover",4 x 4,Automatic,109623,Available,Toronto,6,7,19790.0
+korean,Blue,Used,Hatchback,Unknown,Automatic,79000,Available,Toronto,4,7,13000.0
+other,Grey,Used,"SUV, Crossover",Unknown,Automatic,85133,Available,Toronto,4,4,47998.0
+american,Silver,Used,"Minivan, Van",Front-wheel drive (FWD),Automatic,108000,Available,other,6,6,23888.0
+japanese,Grey,Used,"Minivan, Van",Front-wheel drive (FWD),Automatic,104960,Available,Toronto,4,5,18990.0
+japanese,Black,Used,Sedan,Front-wheel drive (FWD),Manual,75336,Available,Toronto,4,5,18800.0
+german,White,Used,Coupe (2 door),All-wheel drive (AWD),Manual,34282,Available,Toronto,4,4,42995.0
+american,Silver,Used,"SUV, Crossover",4 x 4,Automatic,190000,Available,Toronto,6,14,9900.0
+german,White,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,94950,Available,Toronto,8,4,39777.0
+american,White,Used,"Minivan, Van",Front-wheel drive (FWD),Automatic,164442,Available,Toronto,6,12,5400.0
+american,Blue,Used,Other,Front-wheel drive (FWD),Automatic,94850,Available,Toronto,6,5,18995.0
+american,White,Used,Pickup Truck,4 x 4,Automatic,190172,Available,other,8,11,20195.0
+german,White,Used,Sedan,All-wheel drive (AWD),Automatic,49286,Available,Toronto,6,5,41800.0
+german,Black,Used,Coupe (2 door),All-wheel drive (AWD),Automatic,39352,Available,Toronto,6,5,43800.0
+german,Black,Used,"SUV, Crossover",4 x 4,Automatic,180000,Available,Toronto,6,11,115000.0
+german,Silver,Used,Sedan,Rear-wheel drive (RWD),Manual,73310,Available,Toronto,1,15,69800.0
+american,Black,Used,"Minivan, Van",Front-wheel drive (FWD),Automatic,198000,Available,Toronto,6,7,10995.0
+british,White,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,78982,Available,Toronto,8,5,74800.0
+japanese,Black,New,Hatchback,Front-wheel drive (FWD),Automatic,50,New_Car,Toronto,4,0,30225.0
+japanese,Silver,Used,Sedan,Front-wheel drive (FWD),Automatic,181000,Available,Toronto,6,10,11250.0
+japanese,White,Used,Sedan,Front-wheel drive (FWD),Automatic,13604,Available,other,4,3,24746.0
+american,Grey,Used,Sedan,Front-wheel drive (FWD),Automatic,171337,Available,Toronto,4,5,12800.0
+japanese,Blue,Used,Sedan,All-wheel drive (AWD),Automatic,79733,Available,other,6,4,28480.0
+american,Black,Used,Sedan,All-wheel drive (AWD),Automatic,80788,Available,other_GTA,4,7,18590.0
+american,White,Used,Wagon,All-wheel drive (AWD),Electric,29366,Available,Toronto,0,1,93800.0
+japanese,Black,Used,Sedan,Front-wheel drive (FWD),Automatic,150590,Available,other_GTA,4,6,14990.0
+german,White,Used,Sedan,Rear-wheel drive (RWD),Manual,174504,Available,Toronto,6,13,10800.0
+german,Black,Used,Convertible,Rear-wheel drive (RWD),Automatic,26738,Available,Toronto,4,5,89800.0
+german,Blue,Used,Sedan,Rear-wheel drive (RWD),Automatic,71550,Available,Toronto,8,6,61000.0
+german,White,Used,Coupe (2 door),All-wheel drive (AWD),Automatic,15380,Available,Toronto,4,3,49800.0
+german,White,Used,"Minivan, Van",Rear-wheel drive (RWD),Automatic,169528,Available,Toronto,6,6,44888.0
+german,Silver,Used,Sedan,All-wheel drive (AWD),Automatic,56552,Available,Toronto,4,5,28290.0
+japanese,Blue,Used,Other,4 x 4,Automatic,226176,Available,other_GTA,6,6,27988.0
+american,White,Used,"SUV, Crossover",Front-wheel drive (FWD),Automatic,35099,Available,Toronto,4,4,28990.0
+german,Black,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,203437,Available,Toronto,4,8,15450.0
+american,Black,Used,"SUV, Crossover",4 x 4,Automatic,22663,Available,other_GTA,6,1,38590.0
+german,White,Used,Convertible,Rear-wheel drive (RWD),Automatic,9135,Available,Toronto,6,4,93800.0
+german,White,Used,Wagon,All-wheel drive (AWD),Automatic,11000,Available,Toronto,6,2,159800.0
+american,Grey,Used,"SUV, Crossover",Unknown,Electric,11814,Available,Toronto,0,1,82995.0
+german,Grey,Used,Sedan,Unknown,Automatic,27522,Available,Toronto,8,2,125000.0
+japanese,Black,Used,"SUV, Crossover",Unknown,Automatic,29074,Available,other,6,2,42658.0
+japanese,White,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,23933,Available,other_GTA,6,1,71888.0
+japanese,other,Used,Pickup Truck,4 x 4,Automatic,95300,Available,Toronto,8,4,42995.0
+german,Black,Used,Sedan,Unknown,Automatic,130000,Available,Toronto,8,14,8800.0
+american,other,Used,"SUV, Crossover",4 x 4,Automatic,278000,Available,Toronto,6,16,13900.0
+german,Grey,Used,Sedan,Front-wheel drive (FWD),Automatic,47771,Available,other_GTA,4,3,32995.0
+german,Grey,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,45300,Available,other_GTA,4,4,33888.0
+german,Blue,Used,Sedan,All-wheel drive (AWD),Automatic,41880,Available,Toronto,6,4,52995.0
+american,Grey,Used,Pickup Truck,4 x 4,Automatic,45672,Available,Toronto,8,10,26800.0
+american,Red,Used,"SUV, Crossover",Front-wheel drive (FWD),Automatic,90886,Available,other,4,7,23998.0
+japanese,Grey,Used,Coupe (2 door),Front-wheel drive (FWD),Automatic,149285,Available,Toronto,4,16,4999.0
+japanese,Grey,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,23365,Available,other_GTA,6,2,39888.0
+american,White,New,"SUV, Crossover",Unknown,Automatic,50,New_Car,other,4,0,39568.0
+japanese,White,Used,Sedan,Front-wheel drive (FWD),Automatic,30519,Available,Toronto,4,2,24990.0
+american,Grey,Used,Other,Front-wheel drive (FWD),Automatic,55130,Available,other_GTA,6,5,28590.0
+american,Black,Used,Coupe (2 door),All-wheel drive (AWD),Automatic,143061,Available,Toronto,4,7,18998.0
+american,White,Used,"Minivan, Van",Rear-wheel drive (RWD),Automatic,164000,Available,Toronto,8,9,25888.0
+american,Grey,Used,Coupe (2 door),Rear-wheel drive (RWD),Automatic,37725,Available,Toronto,8,4,109800.0
+german,White,Used,Sedan,Unknown,Automatic,126364,Available,other,4,10,14649.0
+american,Black,Used,Pickup Truck,4 x 4,Automatic,54184,Available,Toronto,6,3,72995.0
+american,White,Used,Other,Rear-wheel drive (RWD),Automatic,199000,Available,Toronto,6,4,21900.0
+american,Red,Used,Coupe (2 door),Rear-wheel drive (RWD),Automatic,47044,Available,Toronto,8,5,49800.0
+japanese,Blue,Used,Wagon,Front-wheel drive (FWD),Automatic,258083,Available,Toronto,4,18,3488.0
+japanese,Black,Used,"SUV, Crossover",Front-wheel drive (FWD),Automatic,132788,Available,other_GTA,4,8,14490.0
+american,other,Used,Coupe (2 door),Rear-wheel drive (RWD),Manual,16084,Available,Toronto,8,14,62800.0
+american,Silver,Used,Pickup Truck,Rear-wheel drive (RWD),Automatic,270000,Available,Toronto,8,14,3599.0
+japanese,White,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,156852,Available,Toronto,4,11,13995.0
+japanese,Black,Used,"SUV, Crossover",Unknown,Automatic,51346,Available,other,8,5,50498.0
+german,Silver,Used,Sedan,All-wheel drive (AWD),Automatic,118729,Available,Toronto,8,8,24995.0
+american,White,Used,Pickup Truck,4 x 4,Automatic,33688,Available,Toronto,6,3,46800.0
+german,White,Used,Sedan,All-wheel drive (AWD),Automatic,36498,Available,Toronto,6,2,144800.0
+japanese,Black,Used,Sedan,Front-wheel drive (FWD),Automatic,56672,Available,Toronto,4,2,24290.0
+korean,White,Used,Sedan,Front-wheel drive (FWD),Automatic,27000,Available,other,4,5,21288.0
+german,White,Used,"Minivan, Van",Rear-wheel drive (RWD),Automatic,218000,Available,Toronto,6,6,36888.0
+japanese,Red,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,107297,Available,other_GTA,4,7,19990.0
+american,Grey,Used,Sedan,Unknown,Electric,50022,Available,Toronto,0,5,89995.0
+german,Grey,Used,Hatchback,Front-wheel drive (FWD),Manual,106133,Available,Toronto,4,7,15988.0
+german,Blue,Used,Coupe (2 door),Front-wheel drive (FWD),Manual,200000,Available,Toronto,4,19,4750.0
+german,Black,Lease Takeover,"SUV, Crossover",All-wheel drive (AWD),Automatic,16000,Available,other,4,1,742.0
+german,Black,Used,Sedan,Unknown,Automatic,130000,Available,Toronto,8,14,8800.0
+german,Black,Used,"SUV, Crossover",4 x 4,Automatic,180000,Available,Toronto,6,11,115000.0
+japanese,Black,Used,Sedan,All-wheel drive (AWD),Automatic,71361,Available,Toronto,6,3,37490.0
+korean,Blue,Used,Hatchback,Unknown,Automatic,79000,Available,Toronto,4,7,13000.0
+american,White,Used,"SUV, Crossover",Front-wheel drive (FWD),Automatic,47885,Available,Toronto,4,5,24000.0
+korean,Grey,Used,Sedan,Unknown,Automatic,3925,Available,Toronto,4,2,34998.0
+korean,Silver,Used,"SUV, Crossover",Unknown,Automatic,24458,Available,Toronto,4,3,32998.0
+korean,Grey,Used,Sedan,Unknown,Automatic,3962,Available,Toronto,4,2,34998.0
+korean,Grey,Used,Sedan,Front-wheel drive (FWD),Automatic,43000,Available,other,4,4,21950.0
+american,White,Used,Other,Rear-wheel drive (RWD),Automatic,199000,Available,Toronto,6,4,21900.0
+german,Grey,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,39455,Available,Toronto,6,2,92800.0
+american,White,Used,"Minivan, Van",Rear-wheel drive (RWD),Automatic,217000,Available,Toronto,6,5,34888.0
+italian,Red,New,"SUV, Crossover",All-wheel drive (AWD),Automatic,50,New_Car,other_GTA,4,0,71674.0
+american,Grey,Used,Sedan,Unknown,Electric,98047,Available,Toronto,0,6,67995.0
+german,White,Used,Sedan,Front-wheel drive (FWD),Automatic,124991,Available,Toronto,4,7,13950.0
+italian,Black,Used,Sedan,All-wheel drive (AWD),Automatic,69116,Available,Toronto,4,7,43800.0
+japanese,other,Used,"SUV, Crossover",Front-wheel drive (FWD),Automatic,48645,Available,other_GTA,4,4,26995.0
+american,Black,Used,"SUV, Crossover",4 x 4,Automatic,900,Available,Toronto,8,0,139800.0
+japanese,Blue,Used,Wagon,Front-wheel drive (FWD),Automatic,258083,Available,Toronto,4,18,3488.0
+japanese,Black,Used,"SUV, Crossover",Front-wheel drive (FWD),Automatic,79217,Available,other_GTA,4,4,26088.0
+korean,Black,Used,Sedan,Front-wheel drive (FWD),Automatic,81304,Available,Toronto,4,3,20390.0
+japanese,other,New,"SUV, Crossover",All-wheel drive (AWD),Automatic,50,New_Car,other,4,0,40477.0
+japanese,Black,Used,"SUV, Crossover",Front-wheel drive (FWD),Automatic,185382,Available,Toronto,4,6,11979.0
+german,Grey,Used,Other,Rear-wheel drive (RWD),Automatic,248074,Available,Toronto,6,10,27999.0
+japanese,other,Used,Sedan,Front-wheel drive (FWD),Automatic,120002,Available,Toronto,4,3,20488.0
+japanese,other,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,88121,Available,Toronto,4,6,25950.0
+german,White,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,53243,Available,Toronto,4,4,34190.0
+korean,White,Used,Hatchback,Front-wheel drive (FWD),Manual,155090,Available,other_GTA,4,9,7990.0
+american,other,New,"SUV, Crossover",All-wheel drive (AWD),Automatic,50,New_Car,Toronto,4,0,36535.0
+german,Black,Used,Sedan,All-wheel drive (AWD),Automatic,51381,Available,Toronto,6,4,109800.0
+german,Red,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,54133,Available,Toronto,8,5,56800.0
+american,other,Used,Other,Rear-wheel drive (RWD),Automatic,162482,Available,Toronto,8,10,16979.0
+japanese,Silver,Used,"SUV, Crossover",Front-wheel drive (FWD),Automatic,64446,Available,other_GTA,4,5,25990.0
+german,Red,Used,Sedan,All-wheel drive (AWD),Automatic,44753,Available,Toronto,4,5,41800.0
+japanese,Black,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,149997,Available,Toronto,6,4,33990.0
+japanese,Black,Used,Pickup Truck,4 x 4,Automatic,313879,Available,Toronto,8,11,19979.0
+japanese,Black,Used,"Minivan, Van",All-wheel drive (AWD),Automatic,29837,Available,other,4,3,27995.0
+american,Blue,Used,Coupe (2 door),Rear-wheel drive (RWD),Automatic,19800,Available,Toronto,8,2,139777.0
+german,Black,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,48025,Available,Toronto,4,4,34995.0
+german,Blue,Used,Hatchback,All-wheel drive (AWD),Manual,141000,Available,other_GTA,4,6,31590.0
+japanese,White,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,155490,Available,Toronto,4,10,17550.0
+japanese,Black,New,Hatchback,Front-wheel drive (FWD),Automatic,50,New_Car,Toronto,4,0,30225.0
+german,White,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,61800,Available,Toronto,6,4,61800.0
+korean,Black,Used,"SUV, Crossover",Front-wheel drive (FWD),Automatic,149462,Available,Toronto,4,4,19999.0
+japanese,White,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,96434,Available,other_GTA,6,5,37590.0
+other,Grey,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,149998,Available,Toronto,6,6,30880.0
+japanese,Black,Used,Sedan,All-wheel drive (AWD),Automatic,353000,Available,Toronto,6,10,4999.0
+american,White,Used,Pickup Truck,Rear-wheel drive (RWD),Automatic,188541,Available,Toronto,8,13,14979.0
+german,White,Used,Hatchback,Front-wheel drive (FWD),Automatic,84890,Available,Toronto,4,7,17994.0
+german,Black,Used,Coupe (2 door),All-wheel drive (AWD),Automatic,65893,Available,other,4,4,37998.0
+german,White,Used,Convertible,All-wheel drive (AWD),Automatic,17416,Available,Toronto,6,4,72399.0
+korean,Black,Used,Sedan,Front-wheel drive (FWD),Automatic,292301,Available,Toronto,4,13,2495.0
+american,White,Used,"Minivan, Van",Rear-wheel drive (RWD),Automatic,164000,Available,Toronto,6,5,43488.0
+american,Black,Used,Pickup Truck,4 x 4,Automatic,78966,Available,Toronto,8,2,72897.0
+japanese,Silver,Used,"SUV, Crossover",Front-wheel drive (FWD),Automatic,58233,Available,other,4,4,27380.0
+american,Grey,Used,"SUV, Crossover",4 x 4,Automatic,20148,Available,other,6,4,44587.0
+german,White,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,32522,Available,Toronto,6,5,45800.0
+german,Black,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,79666,Available,Toronto,6,6,47800.0
+japanese,White,Used,Wagon,Front-wheel drive (FWD),Manual,62719,Available,Toronto,4,4,46339.0
+american,White,Used,Pickup Truck,4 x 4,Automatic,225461,Available,Toronto,8,7,18979.0
+american,White,Used,"SUV, Crossover",4 x 4,Automatic,15545,Available,other_GTA,6,2,59719.0
+german,White,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,55176,Available,Toronto,6,4,49900.0
+japanese,Black,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,50508,Available,other_GTA,6,4,46588.0
+korean,other,Used,Sedan,Unknown,Automatic,43285,Available,other,4,3,20899.0
+german,White,Used,Sedan,Rear-wheel drive (RWD),Automatic,27999,Available,Toronto,1,14,69800.0
+german,Black,Used,Sedan,All-wheel drive (AWD),Automatic,76304,Available,Toronto,6,5,39800.0
+other,other,Used,"SUV, Crossover",Unknown,Automatic,232133,Available,Toronto,6,7,21488.0
+german,Silver,Used,Sedan,All-wheel drive (AWD),Automatic,74669,Available,Toronto,6,4,32987.0
+american,White,Used,"SUV, Crossover",Unknown,Automatic,50669,Available,other,8,3,76995.0
+german,White,Used,Sedan,All-wheel drive (AWD),Manual,139562,Available,Toronto,4,4,41950.0
+italian,Silver,Used,Convertible,Rear-wheel drive (RWD),Automatic,50957,Available,Toronto,8,17,159800.0
+american,White,Used,Other,Rear-wheel drive (RWD),Automatic,117541,Available,Toronto,8,13,19900.0
+japanese,White,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,53051,Available,other_GTA,6,5,42988.0
+american,Black,Used,Pickup Truck,4 x 4,Automatic,81800,Available,other,8,3,43995.0
+german,White,Used,Convertible,All-wheel drive (AWD),Automatic,44629,Available,Toronto,4,5,53800.0
+german,Grey,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,182000,Available,Toronto,6,10,8999.0
+japanese,Silver,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,86932,Available,Toronto,4,3,30190.0
+american,White,New,"SUV, Crossover",Unknown,Automatic,50,New_Car,other,4,0,39568.0
+japanese,Black,Used,Sedan,Front-wheel drive (FWD),Automatic,56672,Available,Toronto,4,2,24290.0
+japanese,Blue,Used,"SUV, Crossover",4 x 4,Automatic,81988,Available,Toronto,6,3,49599.0
+german,Grey,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,141102,Available,Toronto,4,6,23985.0
+german,Black,Used,Sedan,All-wheel drive (AWD),Automatic,55595,Available,other_GTA,4,4,36990.0
+korean,Black,Used,Sedan,Front-wheel drive (FWD),Automatic,55338,Available,Toronto,4,3,21999.0
+german,Black,Used,Coupe (2 door),All-wheel drive (AWD),Automatic,47093,Available,Toronto,4,4,58800.0
+american,White,Used,"Minivan, Van",Front-wheel drive (FWD),Automatic,62716,Available,Toronto,6,2,44897.0
+japanese,Grey,Used,Sedan,Front-wheel drive (FWD),Automatic,172000,Available,Toronto,4,12,8495.0
+japanese,Black,Used,Coupe (2 door),Front-wheel drive (FWD),Manual,260,Available,other_GTA,4,10,9800.0
+british,White,Used,"SUV, Crossover",4 x 4,Automatic,99892,Available,Toronto,6,7,28585.0
+japanese,Grey,Used,"SUV, Crossover",Unknown,Automatic,350000,Available,Toronto,6,8,12000.0
+american,Black,Used,Sedan,Front-wheel drive (FWD),Automatic,170000,Available,Toronto,4,8,7950.0
+american,Grey,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,202000,Available,Toronto,4,11,6750.0
+japanese,Blue,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,127000,Available,Toronto,6,5,25950.0
+japanese,Silver,Used,"SUV, Crossover",Front-wheel drive (FWD),Automatic,245000,Available,Toronto,4,12,3950.0
+german,White,Used,Sedan,All-wheel drive (AWD),Automatic,149000,Available,Toronto,6,8,13950.0
+german,Black,Used,Sedan,Front-wheel drive (FWD),Automatic,233000,Available,Toronto,5,13,4950.0
+japanese,Blue,Used,Sedan,Front-wheel drive (FWD),Manual,196000,Available,Toronto,4,12,2950.0
+american,Black,Used,Pickup Truck,4 x 4,Automatic,285000,Available,Toronto,8,12,13950.0
+japanese,Grey,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,202000,Available,Toronto,4,9,12950.0
+american,Grey,Used,Sedan,Front-wheel drive (FWD),Automatic,294000,Available,Toronto,6,13,4750.0
+japanese,Blue,Used,Hatchback,Front-wheel drive (FWD),Automatic,242000,Available,Toronto,4,7,9950.0
+korean,other,Used,Sedan,Front-wheel drive (FWD),Automatic,178000,Available,Toronto,4,10,7750.0
+japanese,Grey,Used,Sedan,All-wheel drive (AWD),Automatic,151000,Available,Toronto,6,8,19950.0
+japanese,other,Used,"SUV, Crossover",4 x 4,Automatic,389000,Available,Toronto,6,14,15950.0
+japanese,Grey,Used,Sedan,Unknown,Automatic,141000,Available,Toronto,6,13,9950.0
+japanese,other,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,214000,Available,Toronto,6,10,8950.0
+japanese,Black,Used,Pickup Truck,4 x 4,Automatic,171000,Available,Toronto,6,7,29950.0
+american,Grey,Used,Pickup Truck,4 x 4,Automatic,253000,Available,Toronto,8,14,8950.0
+japanese,Red,Used,Pickup Truck,4 x 4,Automatic,208000,Available,Toronto,4,14,10999.0
+american,Silver,Used,Pickup Truck,4 x 4,Automatic,146000,Available,Toronto,8,15,10999.0
+american,Blue,Used,Pickup Truck,4 x 4,Automatic,222000,Available,Toronto,6,14,10999.0
+american,Silver,Used,Coupe (2 door),Rear-wheel drive (RWD),Automatic,89000,Available,Toronto,8,9,21990.0
+german,Grey,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,178000,Available,Toronto,6,7,19750.0
+american,Black,Used,Other,Rear-wheel drive (RWD),Automatic,624600,Available,Toronto,8,8,11970.0
+american,White,Used,Sedan,Unknown,Electric,840,Available,other,0,1,85995.0
+korean,Black,Used,Sedan,Unknown,Automatic,80441,Available,Toronto,4,5,28998.0
+german,Black,Used,Coupe (2 door),Rear-wheel drive (RWD),Automatic,16628,Available,Toronto,4,4,88800.0
+german,Blue,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,35737,Available,other,4,3,49995.0
+german,White,Used,Sedan,All-wheel drive (AWD),Automatic,25592,Available,Toronto,6,3,149800.0
+japanese,Black,Used,Sedan,Unknown,Automatic,117031,Available,Toronto,6,12,13995.0
+german,Black,Used,Convertible,All-wheel drive (AWD),Automatic,36434,Available,Toronto,6,5,47800.0
+british,Black,Used,"Minivan, Van",4 x 4,Automatic,192942,Available,Toronto,8,16,6300.0
+korean,Grey,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,146416,Available,other_GTA,4,5,19990.0
+korean,Black,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,192546,Available,Toronto,6,11,9200.0
+german,Grey,Used,Sedan,Rear-wheel drive (RWD),Automatic,3600,Available,Toronto,6,1,119800.0
+japanese,Grey,Used,Coupe (2 door),Front-wheel drive (FWD),Automatic,149285,Available,Toronto,4,16,4999.0
+american,White,Used,Pickup Truck,4 x 4,Automatic,188217,Available,Toronto,6,8,29979.0
+american,Blue,Used,Pickup Truck,All-wheel drive (AWD),Automatic,300800,Available,Toronto,6,7,18900.0
+german,Silver,Used,Sedan,Unknown,Automatic,48651,Available,Toronto,4,2,48900.0
+american,other,Used,Pickup Truck,4 x 4,Automatic,235000,Available,Toronto,8,14,10999.0
+japanese,Grey,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,66654,Available,other_GTA,4,4,28900.0
+german,Black,Used,Sedan,All-wheel drive (AWD),Automatic,161000,Available,Toronto,6,12,11250.0
+japanese,Black,Used,Sedan,Front-wheel drive (FWD),Automatic,72824,Available,other,6,3,31950.0
+german,other,Used,Sedan,Unknown,Automatic,137049,Available,Toronto,4,9,6900.0
+german,Black,Used,Sedan,Rear-wheel drive (RWD),Automatic,18145,Available,Toronto,8,6,69800.0
+japanese,Black,Used,"SUV, Crossover",Unknown,Automatic,29074,Available,other,6,2,42658.0
+american,White,Used,"SUV, Crossover",4 x 4,Automatic,59473,Available,Toronto,8,4,75800.0
+american,Grey,Used,Sedan,Front-wheel drive (FWD),Automatic,171337,Available,Toronto,4,5,12800.0
+japanese,Grey,Used,Hatchback,Front-wheel drive (FWD),Automatic,32980,Available,Toronto,8,3,25990.0
+american,White,Used,"Minivan, Van",Rear-wheel drive (RWD),Automatic,257000,Available,Toronto,8,8,17488.0
+german,other,Used,"SUV, Crossover",Front-wheel drive (FWD),Automatic,161476,Available,other,4,7,19998.0
+german,Grey,Used,Convertible,All-wheel drive (AWD),Automatic,34992,Available,Toronto,6,4,69800.0
+german,Black,Used,Convertible,All-wheel drive (AWD),Automatic,39033,Available,Toronto,6,2,79900.0
+japanese,White,Used,Sedan,Front-wheel drive (FWD),Automatic,45257,Available,other_GTA,4,6,21990.0
+american,White,Used,Pickup Truck,4 x 4,Automatic,45110,Available,Toronto,8,2,73995.0
+american,White,Used,Coupe (2 door),Rear-wheel drive (RWD),Automatic,6655,Available,Toronto,6,10,79800.0
+japanese,Red,Used,Hatchback,Front-wheel drive (FWD),Manual,52615,Available,Toronto,4,4,24490.0
+german,White,Salvage,"SUV, Crossover",All-wheel drive (AWD),Automatic,60322,Available,other_GTA,4,5,12700.0
+american,Red,Used,Coupe (2 door),Rear-wheel drive (RWD),Automatic,32991,Available,other,8,3,32999.0
+american,Blue,Used,"SUV, Crossover",Unknown,Electric,7643,Available,Toronto,0,1,83995.0
+japanese,Grey,New,"SUV, Crossover",All-wheel drive (AWD),Automatic,50,New_Car,other,6,0,65745.0
+american,White,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,201000,Available,Toronto,6,8,14900.0
+british,Black,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,53400,Available,Toronto,8,4,94800.0
+japanese,Grey,Used,Sedan,Front-wheel drive (FWD),Automatic,45000,Available,Toronto,4,2,23880.0
+american,other,Used,"Minivan, Van",Rear-wheel drive (RWD),Automatic,29151,Available,Toronto,6,2,44995.0
+american,other,Used,Pickup Truck,4 x 4,Automatic,90000,Available,Toronto,8,6,66488.0
+italian,other,Used,Wagon,Front-wheel drive (FWD),Automatic,147586,Available,Toronto,4,8,9999.0
+german,White,Used,Sedan,All-wheel drive (AWD),Automatic,49500,Available,Toronto,6,4,109800.0
+american,Black,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,130000,Available,other_GTA,6,5,32590.0
+american,White,Used,"Minivan, Van",Front-wheel drive (FWD),Automatic,83403,Available,Toronto,6,4,34897.0
+american,Black,Used,Sedan,Rear-wheel drive (RWD),Automatic,77474,Available,Toronto,6,5,28988.0
+american,Red,Used,Pickup Truck,4 x 4,Automatic,235289,Available,Toronto,8,13,11979.0
+korean,Black,Used,Sedan,Front-wheel drive (FWD),Automatic,246164,Available,Toronto,4,9,6599.0
+american,other,Used,"SUV, Crossover",Unknown,Automatic,75,Available,Toronto,3,1,41388.0
+american,other,Used,Coupe (2 door),Rear-wheel drive (RWD),Manual,16084,Available,Toronto,8,14,62800.0
+german,White,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,52019,Available,Toronto,6,3,73800.0
+japanese,White,Used,Hatchback,Front-wheel drive (FWD),Manual,20745,Available,other_GTA,4,4,17990.0
+american,Black,Used,"SUV, Crossover",4 x 4,Automatic,189124,Available,Toronto,6,8,12450.0
+american,White,Used,Pickup Truck,4 x 4,Automatic,241505,Available,Toronto,6,6,18979.0
+german,White,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,90500,Available,Toronto,8,8,93800.0
+american,Black,Used,"SUV, Crossover",4 x 4,Automatic,92322,Available,Toronto,8,5,48988.0
+japanese,Blue,Used,Hatchback,Front-wheel drive (FWD),Manual,240160,Available,Toronto,4,10,5488.0
+japanese,Red,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,72073,Available,Toronto,4,10,17900.0
+american,White,Used,"Minivan, Van",Rear-wheel drive (RWD),Automatic,149000,Available,Toronto,6,3,51888.0
+american,Blue,Used,Sedan,Front-wheel drive (FWD),Automatic,162733,Available,Toronto,4,12,5495.0
+american,White,Used,Wagon,Front-wheel drive (FWD),Automatic,42311,Available,other,4,3,30495.0
+german,Black,Used,Sedan,Front-wheel drive (FWD),Automatic,119000,Available,Toronto,4,4,17900.0
+german,Black,Used,Sedan,Unknown,Automatic,12847,Available,Toronto,4,1,57900.0
+american,Red,Used,Sedan,Front-wheel drive (FWD),Automatic,102000,Available,other,4,5,19998.0
+british,Black,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,31001,Available,Toronto,8,3,134800.0
+german,other,Used,Sedan,Rear-wheel drive (RWD),Manual,184509,Available,Toronto,6,51,139800.0
+german,Black,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,3508,Available,Toronto,6,1,189800.0
+japanese,Grey,Used,Sedan,All-wheel drive (AWD),Automatic,71000,Available,Toronto,6,6,40000.0
+german,White,Used,Sedan,Unknown,Automatic,21798,Available,Toronto,4,2,51900.0
+japanese,other,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,185748,Available,Toronto,4,9,7499.0
+american,Grey,Used,Pickup Truck,4 x 4,Automatic,160000,Available,Toronto,8,7,19999.0
+japanese,Blue,Used,Wagon,All-wheel drive (AWD),Automatic,146082,Available,Toronto,4,9,12995.0
+japanese,Grey,Used,Coupe (2 door),All-wheel drive (AWD),Automatic,73700,Available,Toronto,6,9,21995.0
+german,Grey,Used,Sedan,All-wheel drive (AWD),Automatic,70070,Available,Toronto,6,9,17995.0
+japanese,Grey,Used,Sedan,All-wheel drive (AWD),Automatic,83025,Available,Toronto,6,9,16995.0
+american,Red,Used,Coupe (2 door),Rear-wheel drive (RWD),Automatic,116023,Available,Toronto,8,10,21995.0
+japanese,Black,Used,Sedan,Front-wheel drive (FWD),Manual,156722,Available,Toronto,4,7,8995.0
+japanese,other,New,Sedan,Rear-wheel drive (RWD),Automatic,50,New_Car,Toronto,6,0,37907.0
+korean,Black,Used,"SUV, Crossover",Front-wheel drive (FWD),Automatic,44971,Available,Toronto,4,3,25800.0
+american,other,Used,"SUV, Crossover",Unknown,Automatic,7000,Available,other,3,1,42269.0
+american,Grey,Used,Other,Unknown,Automatic,96441,Available,other,6,5,38888.0
+german,Black,Used,Sedan,All-wheel drive (AWD),Automatic,95388,Available,Toronto,4,7,25995.0
+british,Black,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,123759,Available,Toronto,6,9,22995.0
+japanese,White,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,150750,Available,Toronto,6,10,19995.0
+american,Silver,Used,"SUV, Crossover",Front-wheel drive (FWD),Automatic,63290,Available,other_GTA,6,6,18095.0
+british,Black,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,48985,Available,Toronto,8,3,169800.0
+german,Black,New,Sedan,All-wheel drive (AWD),Automatic,50,New_Car,Toronto,4,0,63264.0
+german,Grey,New,Sedan,All-wheel drive (AWD),Automatic,50,New_Car,Toronto,4,0,75163.0
+german,White,New,Sedan,All-wheel drive (AWD),Automatic,50,New_Car,Toronto,4,0,59969.0
+german,White,New,"SUV, Crossover",All-wheel drive (AWD),Automatic,50,New_Car,Toronto,4,0,64154.0
+german,White,New,Sedan,All-wheel drive (AWD),Automatic,50,New_Car,Toronto,4,0,74779.0
+german,Blue,New,"SUV, Crossover",All-wheel drive (AWD),Automatic,50,New_Car,Toronto,4,0,65449.0
+german,Black,New,Sedan,All-wheel drive (AWD),Automatic,50,New_Car,Toronto,4,0,78664.0
+german,Black,New,Sedan,All-wheel drive (AWD),Automatic,50,New_Car,Toronto,4,0,62619.0
+german,White,New,"SUV, Crossover",All-wheel drive (AWD),Automatic,50,New_Car,Toronto,6,0,93894.0
+german,White,New,"SUV, Crossover",All-wheel drive (AWD),Automatic,50,New_Car,Toronto,4,0,64554.0
+german,Black,New,"SUV, Crossover",All-wheel drive (AWD),Automatic,50,New_Car,Toronto,6,0,97229.0
+german,White,New,"SUV, Crossover",All-wheel drive (AWD),Automatic,50,New_Car,Toronto,4,0,67134.0
+german,Black,New,"SUV, Crossover",All-wheel drive (AWD),Automatic,50,New_Car,Toronto,6,0,111379.0
+german,White,New,Convertible,All-wheel drive (AWD),Automatic,50,New_Car,Toronto,4,0,144814.0
+german,Grey,New,"SUV, Crossover",All-wheel drive (AWD),Automatic,50,New_Car,Toronto,4,0,52454.0
+german,Black,New,Sedan,All-wheel drive (AWD),Automatic,50,New_Car,Toronto,4,0,59324.0
+german,White,New,"SUV, Crossover",All-wheel drive (AWD),Automatic,50,New_Car,Toronto,4,0,65554.0
+german,Black,New,Sedan,All-wheel drive (AWD),Automatic,50,New_Car,Toronto,4,0,56729.0
+german,White,New,Coupe (2 door),All-wheel drive (AWD),Automatic,50,New_Car,Toronto,4,0,60629.0
+german,Black,New,Sedan,All-wheel drive (AWD),Automatic,50,New_Car,Toronto,4,0,71614.0
+german,Black,New,"SUV, Crossover",All-wheel drive (AWD),Automatic,50,New_Car,Toronto,4,0,55174.0
+german,White,New,"SUV, Crossover",All-wheel drive (AWD),Automatic,50,New_Car,Toronto,4,0,56954.0
+german,White,New,"SUV, Crossover",All-wheel drive (AWD),Automatic,50,New_Car,Toronto,4,0,56929.0
+german,Black,New,Sedan,All-wheel drive (AWD),Automatic,50,New_Car,Toronto,4,0,58524.0
+german,Black,New,"SUV, Crossover",All-wheel drive (AWD),Automatic,50,New_Car,Toronto,4,0,56299.0
+german,White,New,"SUV, Crossover",All-wheel drive (AWD),Automatic,50,New_Car,Toronto,4,0,53104.0
+german,Black,New,Sedan,All-wheel drive (AWD),Automatic,50,New_Car,Toronto,4,0,55079.0
+german,Grey,New,Sedan,All-wheel drive (AWD),Automatic,50,New_Car,Toronto,4,0,91764.0
+german,Blue,New,"SUV, Crossover",All-wheel drive (AWD),Automatic,50,New_Car,Toronto,4,0,65699.0
+german,Black,New,Sedan,All-wheel drive (AWD),Automatic,50,New_Car,Toronto,4,0,56979.0
+german,Grey,New,Sedan,All-wheel drive (AWD),Automatic,50,New_Car,Toronto,4,0,80029.0
+german,other,Used,Sedan,All-wheel drive (AWD),Automatic,93000,Available,Toronto,4,5,24880.0
+american,White,Used,Pickup Truck,4 x 4,Automatic,7193,Available,other,8,0,66999.0
+american,Red,Used,Sedan,Front-wheel drive (FWD),Automatic,160000,Available,Toronto,4,10,9750.0
+japanese,Black,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,12795,Available,Toronto,6,1,53995.0
+german,White,Used,Sedan,All-wheel drive (AWD),Automatic,90696,Available,Toronto,4,4,33800.0
+japanese,other,Used,Sedan,Front-wheel drive (FWD),Automatic,189120,Available,Toronto,6,17,4000.0
+german,White,New,"SUV, Crossover",All-wheel drive (AWD),Automatic,50,New_Car,Toronto,6,0,100129.0
+german,Black,New,"SUV, Crossover",All-wheel drive (AWD),Automatic,50,New_Car,Toronto,4,0,52429.0
+german,White,New,Sedan,All-wheel drive (AWD),Automatic,50,New_Car,Toronto,4,0,56829.0
+german,Blue,New,Sedan,All-wheel drive (AWD),Automatic,50,New_Car,Toronto,4,0,76179.0
+german,Blue,New,"SUV, Crossover",All-wheel drive (AWD),Automatic,50,New_Car,Toronto,8,0,128594.0
+german,White,New,Sedan,All-wheel drive (AWD),Automatic,50,New_Car,Toronto,4,0,56729.0
+german,White,New,Sedan,All-wheel drive (AWD),Automatic,50,New_Car,Toronto,4,0,55254.0
+german,White,New,"SUV, Crossover",All-wheel drive (AWD),Automatic,50,New_Car,Toronto,4,0,64804.0
+german,Black,New,"SUV, Crossover",All-wheel drive (AWD),Automatic,50,New_Car,Toronto,4,0,66449.0
+german,Grey,New,Sedan,All-wheel drive (AWD),Automatic,50,New_Car,Toronto,4,0,61174.0
+german,Black,New,"SUV, Crossover",All-wheel drive (AWD),Automatic,50,New_Car,Toronto,8,0,132394.0
+german,Black,New,Sedan,All-wheel drive (AWD),Automatic,50,New_Car,Toronto,4,0,73194.0
+german,Black,New,Sedan,All-wheel drive (AWD),Automatic,50,New_Car,Toronto,4,0,62874.0
+german,Grey,New,"SUV, Crossover",All-wheel drive (AWD),Automatic,50,New_Car,Toronto,4,0,53479.0
+german,White,New,Sedan,All-wheel drive (AWD),Automatic,50,New_Car,Toronto,4,0,61829.0
+german,White,New,"SUV, Crossover",All-wheel drive (AWD),Automatic,50,New_Car,Toronto,4,0,51949.0
+german,Grey,New,"SUV, Crossover",All-wheel drive (AWD),Automatic,50,New_Car,Toronto,4,0,65449.0
+german,Blue,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,20255,Available,Toronto,6,3,66800.0
+japanese,Black,Used,Sedan,Front-wheel drive (FWD),Automatic,131540,Available,other,4,6,15998.0
+german,Black,Used,Sedan,All-wheel drive (AWD),Automatic,64372,Available,Toronto,6,6,39800.0
+german,Grey,Used,"SUV, Crossover",All-wheel drive (AWD),Automatic,43313,Available,Toronto,6,2,79995.0
+german,Blue,Used,Sedan,Rear-wheel drive (RWD),Automatic,165000,Available,Toronto,6,10,15500.0
+german,White,New,"SUV, Crossover",All-wheel drive (AWD),Automatic,50,New_Car,Toronto,4,0,80904.0
