@@ -75,7 +75,7 @@ def predict():
             inp = s.transform([oh_row])
 
             prediction=model.predict(inp)
-            output=round(np.exp(prediction[0]),2)
+            output=round(np.exp(prediction[0]),2)*1.13
         if output<0:
             return render_template('index.html',prediction_texts="Sorry you cannot sell this car")
         else:
