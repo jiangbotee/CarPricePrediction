@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Car Price Predictor</title>
+</head>
+
+<body>
+    <div style="color:black">
+        <form action="{{ url_for('predict')}}" method="post">
+            <h1>Kijiji Autos Used Car Price Predictor</h1>
+<!--            <br><br><h3>{{ prediction_text }}</h3><br>-->
+<!--            <br><br><h3></h3><output id="prediction_text" name="prediction_text"><br>-->
+            <h3>Brand</h3><input id="brand" name="brand" type="text">
+            <h3>Model</h3><input id="model" name="model" type="text">
+            <h3>Year</h3><input id="year" name="year" type="number ">
+            <h3>Mileage (KM)</h3><input id="mileage" name="mileage" type="number ">
+            <h3>Color</h3><select name="color" id="color" required="required">
+            <option value="Black">Black</option>
+            <option value="White">White</option>
+            <option value="Grey">Grey</option>
+            <option value="Blue">Blue</option>
+            <option value="Red">Red</option>
+            <option value="Silver">Silver</option>
+            <option value="other">Other</option>
+            </select>
+            <h3>Condition</h3><select name="condition" id="condition" required="required">
+            <option value="Used">Used</option>
+            <option value="New">New</option>
+            <option value="Lease-Takeover">Lease Takeover</option>
+            </select>
+            <h3>Body Type</h3><select name="body_type" id="body_type" required="required">
+            <option value="Sedan">Sedan</option>
+            <option value="Convertible">Convertible</option>
+            <option value="Coupe (2 door)">Coupe (2 door)</option>
+            <option value="Hatchback">Hatchback</option>
+            <option value="Minivan, Van">Minivan/Van</option>
+            <option value="Pickup Truck">Pickup Truck</option>
+            <option value="SUV, Crossover">SUV/Crossover</option>
+            <option value="Wagon">Wagon</option>
+            <option value="other">Other</option>
+            </select>
+            <h3>Wheel Configuration</h3><select name="wheel_config" id="wheel_config" required="required">
+            <option value="Front-wheel drive (FWD)">Front-wheel drive (FWD)</option>
+            <option value="4x4">4 x 4</option>
+            <option value="All-wheel drive (AWD)">All-wheel drive (AWD)</option>
+            <option value="Rear-wheel drive (RWD)">Rear-wheel drive (RWD)</option>
+            <option value="Unknown">Unknown</option>
+            </select>
+            <h3>Transmission Type</h3><select name="transmission" id="transmission" required="required">
+            <option value="Automatic">Automatic</option>
+            <option value="Manual">Manual</option>
+            <option value="Electric">Electric</option>
+            </select>
+            <h3>Number of Cylinders</h3><select name="cylinders" id="cylinders" required="required">
+            <option value="0">Electric</option>
+            <option value="1">1</option>
+            <option value="3">4</option>
+            <option value="5">5</option>
+            <option value="6">6</option>
+            <option value="8">8</option>
+            <option value="10">10</option>
+            <option value="12">12</option>
+            </select>
+            <h3>Carfax Link Available?</h3><select name="carfax_link" id="carfax_link" required="required">
+            <option value="Available">Yes</option>
+            <option value="None">No</option>
+            </select>
+            <h3>Selling Location</h3><select id="area" name="area" required="required">
+            <option value="Toronto">Toronto (Toronto, Etobicoke, East York, North York, Scarborough, York)</option>
+            <option value="other_GTA">Other GTA (Mississauga, Brampton, Markham, Vaugh, Richmond, Oakville)</option>
+            <option value="other">Other</option>
+        </select>
+
+            <br><br><button id="sub" type="submit ">Calculate the Selling Price</button>
+            <br>
+
+
+
+
+        </form>
+
+
+
+
+    </div>
+
+
+
+
+    <style>
+        body {
+            background-image:url({{url_for('static',filename='dealership.jpeg')}});
+            background-color: lightblue;
+            background-attachment:fixed;
+            background-size: cover;
+            text-align: center;
+            padding: 0px;
+        }
+        
+        #research {
+            font-size: 18px;
+            width: 100px;
+            height: 23px;
+            top: 23px;
+        }
+        
+        #box {
+            border-radius: 60px;
+            border-color: 45px;
+            border-style: solid;
+            font-family: cursive;
+            text-align: center;
+            background-color: rgb(168, 131, 61);
+            font-size: medium;
+            position: absolute;
+            width: 700px;
+            bottom: 9%;
+            height: 850px;
+            right: 30%;
+            padding: 0px;
+            margin: 0px;
+            font-size: 14px;
+        }
+        
+
+        #fuel:hover {
+            background-color: coral;
+        }
+        
+        #color {
+            width: 160px;
+            height: 43px;
+            text-align: center;
+            border-radius: 14px;
+            font-size: 18px;
+        }
+        
+        #color:hover {
+            background-color: cyan;
+        }
+
+
+         #area {
+            width: 160px;
+            height: 43px;
+            text-align: center;
+            border-radius: 14px;
+            font-size: 18px;
+        }
+
+        #area:hover {
+            background-color: cyan;
+        }
+
+         #condition {
+            width: 160px;
+            height: 43px;
+            text-align: center;
+            border-radius: 14px;
+            font-size: 18px;
+        }
+
+        #condition:hover {
+            background-color: cyan;
+        }
+
+        #cylinders {
+            width: 160px;
+            height: 43px;
+            text-align: center;
+            border-radius: 14px;
+            font-size: 18px;
+        }
+
+        #cylinders:hover {
+            background-color: cyan;
+        }
+        #body_type {
+            width: 160px;
+            height: 43px;
+            text-align: center;
+            border-radius: 14px;
+            font-size: 18px;
+        }
+
+        #body_type:hover {
+            background-color: cyan;
+        }
+
+        #wheel_config {
+            width: 160px;
+            height: 43px;
+            text-align: center;
+            border-radius: 14px;
+            font-size: 18px;
+        }
+
+        #wheel_config:hover {
+            background-color: cyan;
+        }
+
+
+
+        #transmission {
+            width: 160px;
+            height: 43px;
+            text-align: center;
+            border-radius: 14px;
+            font-size: 18px;
+        }
+
+        #transmission:hover {
+            background-color: cyan;
+        }
+
+
+        #carfax_link {
+            width: 160px;
+            height: 43px;
+            text-align: center;
+            border-radius: 14px;
+            font-size: 18px;
+        }
+
+        #carfax_link:hover {
+            background-color: cyan;
+        }
+        
+        #sub {
+            width: 160px;
+            height: 83px;
+            text-align: center;
+            border-radius: 14px;
+            font-size: 18px;
+            background-color: rgb(225, 225, 225);
+        }
+        
+        #sub:hover {
+            background-color: cyan;
+        }
+        
+        #brand {
+            border-radius: 14px;
+            height: 25px;
+            font-size: 20px;
+            text-align: center;
+        }
+        
+        #year {
+            border-radius: 14px;
+            height: 25px;
+            font-size: 20px;
+            text-align: center;
+        }
+
+        #mileage {
+            border-radius: 14px;
+            height: 25px;
+            font-size: 20px;
+            text-align: center;
+        }
+        #model {
+            border-radius: 14px;
+            height: 25px;
+            font-size: 20px;
+            text-align: center;
+        }
+    </style>
+</body>
+
+</html>
